@@ -1,0 +1,1486 @@
+ato i
+cena i 8 cena ii 16 cena iii 28 cena iv 34 cena v 39
+ato ii
+cena i 48 cena ii 54
+ato iii
+cena i 79 cena ii 88 cena iii 108 cena iv 112
+
+ato iv
+cena i 122 cena ii 125 cena iii 128 cena iv 132 cena v 136 cena vi 146 cena vii 148
+ato v
+cena i 156 cena ii 172
+
+personagens dramaticas
+
+claudio rei da dinamarca
+hamlet filho do defunto rei e sobrinho do rei reinante
+fortimbras principe da noruega horacio amigo de hamlet polonio camareiromor laertes seu filho
+voltimando cortesao cornelio cortesao robencrantz cortesao guildenstern cortesao osrico
+um nobre um padre
+bernardo oficial marcelo oficial francisco soldado reinaldo criado de polonio um capitao
+embaixadores ingleses atores coveiros
+gertrudes rainha da dinamarca mae de hamlet
+ofelia filha de polonio
+
+nobres senhoras oficiais soldados marinheiros mensageiros e criados
+o fantasma do pai de hamlet
+
+
+ato i
+cena i
+
+esplanada do castelo de elsinor francisco de sentinela bernardo entra
+
+bernardo quem esta ai
+francisco naorespondameparee diga o nome
+bernardo viva o rei francisco bernardo bernardo ele mesmo
+francisco vindes exatamente na vossa hora
+bernardo meianoitefranciscovai deitarte
+francisco muito grato vos sou por me renderdes que frio chega a doerme o coracao
+
+bernardo foi calma a guarda francisco nao buliu nem rato
+bernardo entao boa noite se vires por ai marcelo e horacio dizelhes que se apressem estao ambos escalados comigo
+francisco julgo ouvilos ola nao se aproximem quem esta ai entram horacio e marcelo
+horacio amigos desta terra
+marcelo e suditos do rei da dinamarca francisco boa noite para todos
+marcelo outro tanto te desejamos nos meu bom soldado quem te rendeu na guarda
+francisco foi bernardo mais uma vez boa noite sai
+marcelo ola bernardo bernardo fale horacio esta ai horacio ele em pessoa
+bernardo bemvindohoraciosalve bom marcelo
+marcelo eatalcoisaestanoite apareceu
+
+bernardo nao vi nada
+marcelo horacio diz que tudo e fantasia nao quer acreditar no que contamos sobre a visao que duas vezes vimos por isso o convidei a vir fazernos companhia nas horas desta noite dessa forma ele confirma nossos olhos se a aparicao voltar e fala com ela
+horacio qual nao vem nao vem nada
+bernardo bem sentemonos renovemos o assalto aos teus ouvidos que tao fortes se mostram para a historia do que vimos duas noites
+horacio pois sentemonos para ouvir a bernardo sobre o assunto
+bernardo na ultima noite ao vir iluminar aquela estrela que esta a oeste do polo a parte exata do ceu em que ora brilha eu e marcelo ao soar uma hora o sino
+marcelo para nao continues eilo de novo entra o fantasma
+bernardo exatamente a forma do rei morto
+marcelo falalhe tu horacio que es instruido
+
+bernardo nao e igual ao rei ve bem horacio
+horacio igual o espanto e o medo me confundem
+bernardo deseja que lhe falem marcelo fala horacio
+horacio quem es que assim usurpas estas horas da noite e a forma nobre e belicosa que ostentava marchando a majestade do sepultado rei da dinamarca pelo ceu fala ordenote
+marcelo ofendeuse bernardo vai recuando
+horacio detemte e fala intimote sai o fantasma
+marcelo foise sem dizer nada
+bernardo entao horacio assim tremendo e palido nao e mais do que simples fantasia que pensais de tudo isso
+horacio perante meu deus nisso poderia nao ter acreditado sem a sensivel e verdadeira testemunha de meus proprios olhos
+marcelo ao rei se assemelha
+
+horacio como tu te assemelhas a ti mesmo essas as armas que trazia quando derrubou o ambicioso noruegues desse modo franziu o sobrecenho depois da discussao quando no gelo jogou a resistente machadinha e muito estranho
+marcelo por duas vezes ja nesta hora morta passou por nos com o mesmo ar belicoso
+horacio nao posso achar explicacao contudo de maneira geral penso que o fato e indicio de algum mal para nos todos
+marcelo sentemse entao e quem souber nos diga donde vem fatigaremse os vassalos deste reino com guardas rigorosas e mais por que fundir canhoes de bronze por que tanto armamento do estrangeiro por que trabalham tanto os arsenais sem das semanas separar os sabados que nos ameaca para que essa faina suarenta a noite mude em companheira de trabalho do dia quem me pode dar disso a explicacao
+horacio eu quero crelo e o que se fala ao menos o defunto monarca de quem vimos ora a imagem foi desafiado como e bem sabido por fortimbras a quem ciumento orgulho dava ousadia o nosso bravo hamlet que assim por estes mundos lhe chamavam matou o noruegues que por contrato selado e sancionado
+
+pelas normas da nobreza legava ao adversario todos os territorios ocupados se a vida a perder viesse na compita nosso rei por seu lado o equivalente de terras empenhou que caberiam a fortimbras no caso de afirmarse vitorioso tal como pela forca desse artigo as daquele para hamlet foram deixadas mas agora o moco fortimbras ardoroso porem falho de experiencia alistou pela fronteira da noruega so a preco de comida uns tipos corajosos e sem terras que anteveem qualquer empresa gorda que nao e outra justamente como nosso estado de ha muito o reconhece senao nos constranger pela violencia das armas a entregarlhes esses dominios que de seu pai nos vieram eis a origem principal quero crer de tanta azafama a causa desta guarda e a maior fonte da lufalufa em que se agita o reino
+bernardo e o que eu penso tambem deve ser isso e o que explica passar por nossa guarda semelhante portento sob o aspecto do rei que foi e e causa desta guerra
+horacio o olho da inteligencia um argueiro o turva na epoca mais gloriosa da alta roma pouco antes de cair o grande julio sairam dos sepulcros os cadaveres em seus lencois gemendo pelas ruas depois chuviscou sangue apareceram manchas no sol cometas e o umido astro  que  tem  forca  no  reino  de  netuno  do
+
+eclipse padeceu do fim das coisas identicos sinais de crueis eventos precursores que sao sempre dos fados e prologo de agouros iminentes
+  enviaram juntamente o ceu e a terra por sobre o nosso clima e nosso povo mas silencio cautela eilo que volta entra o fantasma vou falarlhe ainda mesmo que me mate para ilusao se tens o uso da fala respondeme se e de necessidade fazer algo de bom que te alivie e me de graca falame se estas a par de algum mal iminente de tua patria e que possa ser desviado oh falame ou ainda se escondeste sob a terra quando vivo tesouros extorquidos razao se diz de as almas retornarem um galo canta detemte e fala agarrao bem marcelo
+marcelo posso darlhe com minha partasana
+horacio se resistir bernardo aqui
+horacio por este lado sai o fantasma
+marcelo desapareceu foi mal de nossa parte em tanta mostra de majestade usarmos de violencia como o ar e invulneravel nao passando de brincadeira os nossos golpes vaos
+bernardo ia falar o galo o nao deixou
+
+horacio nesse instante tremeu como culpado diante da citacao de ruim pressagio ouvi dizer que o galo essa trombeta da manha com sua voz vibrante e clara desperta o deus do dia e que a esse aviso quer no mar quer no fogo no ar na terra os errantes espiritos retornam para seus postos do que temos clara confirmacao em quanto presenciamos
+marcelo quando o galo cantou desvaneceuse dizem que quando o tempo se aproxima de a data festejarmos do natal do nosso salvador essa ave canta durante toda a noite entao espirito nenhum anda vagante dizem todas as noites sao salubres os planetas nao tem influencia os gnomos os bruxedos tao gracioso e esse tempo e tao sagrado
+horacio ouvi falar tambem e em parte o creio mas vede a aurora com seu manto rubro passeia sobre o orvalho alem do morro ponhamos fim a guarda sou de aviso que os fatos desta noite os transmitamos ao moco hamlet pois por minha vida esse espirito mudo ha de falarlhe concordais em fazerlhe esse relato que o dever e a afeicao de nos o exigem
+marcelo facamolo vos peco eu sei o ponto em que e facil falarlhe esta manha saem
+
+cena ii
+
+uma sala de recepcao no castelo entram o rei a rainha hamlet polonio laertes voltimando cornelio nobres e sequito
+
+
+o rei conquanto esteja fresca ainda a memoria do traspasso de hamlet o irmao saudoso e choralo devessemos contraindo toda a corte em tristeza o sobrecenho tanto a razao se impoe a natureza que com sabia tristura o relembramos ao tempo em que pensamos em nos mesmos por isso a que era nossa irma e agora nossa rainha a imperial herdeira deste reino guerreiro com alegria por bem dizermos parcialmente frustra num dos olhos o choro no outro o riso ledos no funeral tristes na igreja sabendo equilibrar a dor e o encanto tomamos como esposa apos ouvirmos vossos conselhos sempre e em tudo livres nossos agradecimentos por tudo isso agora fortimbras o moco como bem o sabeis subestimando nossa forca ou mesmo pensando que o traspasso de nosso irmao poria o estado fora dos eixos sonha com vantagens pessoais nao cessando de inquietar
+
+nos com mensagens que visam a reavernos as terras que seu pai petdeu na luta conforme as condicoes estipuladas com nosso bravo irmao sobre ele basta passemos a tratar de nos e desta convocacao e o caso que escrevemos a noruega tio desse moco fortimbras que de cama e muito doente de certo ignora os planos do sobrinho pedindolhe intervenha no sentido de sofrearlhe o ardor visto que as levas e alistamentos estao sendo feitos nos seus dominios dai vos despacharmos bom cornelio e tambem vos voltimando com meu saudar ao velho noruegues sem mais poder pessoal para tratardes com o rei alem do que estiver previsto nas vossas instrucoes e agora adeus que a pressa recomende o vosso zelo
+cornelio e voltimando demonstralo emos nisto como em tudo
+o rei estamos certos disso passai bem voltimando e cornelio saem dize agora laertes que pretendes ja nos falaste de algo que e laertes nao se dara que percas as palavras se falares com senso ao soberano da dinamarca que nos poderias pedir laertes que nao fosse nossa dadiva nao pedido de tua parte a cabeca nao e tao bem casada com o coracao nem serve a mao a boca com mais zelo que ao trono teu bom pai que desejas laertes
+
+laertes real senhor permissao de regresso para a franca ainda que de bom grado eu tenha vindo a vossa coroacao confessar devo que cumprido o dever meus pensamentos e desejos sujeitos a vossa alta benevolencia a franca me conduzem
+o rei teu pai ja o consentiu que diz polonio
+polonio sim milorde arrancou de mim meu tardo consentimento a custa de insistencia tendo eu por fim selado seu pedido com meu custoso "sim" por isso pecovos consentirdes que volte para a franca
+o rei laertes a hora e boa usa o teu tempo e a teu sabor e dotes o aproveita e agora primo hamlet primo e filho
+hamlet a parte parente mais querido muito menos
+o rei por que sempre o teu rosto com essas nuvens
+hamlet nem tanto meu senhor o sol me aquece
+a rainha despete bom hamlet desse luto e deita olhar amigo a dinamarca nao prossigas assim de olhos caidos a procurar teu nobre pai na poeira e lei comum tu o sabes
+
+quantos vivem passam da natureza para a vida da eternidade
+hamlet e lei comum realmente minha senhora
+a rainha entao se e assim com todos que te parece estranho nesse caso
+hamlet nao parece senhora e nao conheco "pareces" boa mae nem esta capa sombria nem as vestes costumeiras de solene cor negra os tempestuosos suspiros arrancados do imo peito as torrentes fecundas que me descem dos olhos o semblante acabrunhado nem todas as demais modalidades da magoa poderao nunca em verdade definirme parecem taosomente pois sao gestos de facil fingimento mas ha algo dentro em mim que nao parece tudo isso e roupa e enfeite do infortunio
+o rei recomendate hamlet a natureza chorares o teu pai dessa maneira mas lembrate teu pai perdeu um pai que o seu tambem perdera ao filho vivo cabe o grato dever de lastimalo por algum tempo mas mostrar tao grande obstinacao no luto e dar indicios de teima e de impiedade e a dor dos fracos revela uma vontade impia e rebelde coracao debil mente anarquizada inteligencia pobre e sem cultivo se tem de ser assim tal como as coisas mais comuns que aos sentidos nos afetam para que
+
+nos mostrarmos rigorosos e pueris ora e ofensa ao proprio ceu a natureza aos mortos mais que absurda para a razao cujo principio basico e o traspasso dos pais e que nao cessa de proclamar desde a hora do primeiro cadaver ate ao morto deste instante tinha de ser assim vamos te peco deixa essa dor esteril e nos trata como a pai sim que o mundo tome nota o mais chegado es tu ao nosso trono nao menos generosos sentimentos dedica ao filho um pai do que os que a tua pessoa consagramos teu desejo de voltar novamente para a escola de vitemberga opoese ao nosso alvitre por isso conjuramoste a ficares sob o grato prazer de nossos olhos dos nobres o primeiro primo e filho
+a rainha nao deixes que tua mae gaste suas suplicas em vao hamlet pecote ficares conosco nao te vas a vitemberga
+hamlet quanto em mim for senhora serei docil
+o rei isso sim que e falar sensato e amavel se como nos na dinamarca vamos senhora o voluntario "sim" de hamlet sorrime ao coracao por isso os brindes de hoje de dinamarca o canhao grande devera transmitilos ate as nuvens o ceu vai repetir a cada taca do rei trovoes da terra e agora vamonos saem o rei a rainha laertes polonio e o sequito
+
+hamlet oh se esta carne solida tao solida se esfizesse fundindose em orvalho ou se ao menos o eterno nao houvesse condenado o suicidio o deus o deus como se me afiguram fastidiosas futeis e vas as coisas deste mundo que horror jardim inculto em que so medram ervas daninhas cheio so das coisas mais rudes e grosseiras chegar a isso morto ha dois meses nao nem tanto dois um rei tao bom que confrontado com este era apolo ante um satiro tao terno para a esposa que ao proprio vento obstava de baterlhe no rosto com violencia oh ceus recordaloei pendia dele como se seus desejos aumentassem com a saciedade e um mes depois paremos fragilidade nome de mulher so um mes sem ter gasto ainda os sapatos com que o corpo seguiu do meu bom pai qual niobe so lagrimas sim ela o ceu um animal que e destruido da faculdade da palavra certo choraria mais tempo desposada pelo irmao de meu pai mas que tem tanto dele tal como eu de hercules num mes antes que o sal das lagrimas tao falsas secassem de seus olhos tumefeitos estar ela casada oh pressa iniqua de subir para o talamo incestuoso nao pode acabar bem mas despedacate coracao e mister ficar calado entram horacio marcelo e bernardo
+horacio deus guarde a vossa alteza
+
+hamlet alegrame reverte com saude
+horacio se a memoria nao me falha
+horacio o mesmo criado principe de sempre
+hamlet amigo amigo e o nome que eu te dou qual a razao de haveres tu deixado vitemberga marcelo
+marcelo meu bom principe
+hamlet muito prazer a bernardo bons dias mas falando serio por que deixaste vitemberga
+horacio simples disposicao de um preguicoso
+hamlet nao quisera ouvir isso de teus proprios inimigos por isso nao me facas ao ouvido a violencia de depores contra ti proprio nao nao es vadio qual o motivo que a elsinor te trouxe conosco aprenderas a beber muito
+horacio   senhor  os  funerais  de  vosso
+pai
+hamlet meucarocondiscipulonao
+zombes creio que vieste para o casamento de minha mae
+horacio realmente foi bem perto
+
+hamlet economia horacio os bolos funebres serviram para os frios do esposorio preferira encontrar no ceu o inimigo mais ferrenho a viver tal dia horacio meu pai as vezes julgo ver meu pai
+horacio como senhor
+hamlet com os olhos da alma horacio
+horacio vio uma vez um grande rei de fato
+hamlet um homem na acepcao lata do termo jamais poderei ver alguem como ele
+horacio creio senhor que o vi nesta noite ultima
+hamlet a quem
+horacio a vosso pai senhor hamlet o rei meu pai
+horacio prestaime ouvidos refreando o espanto por algum tempo ate que eu vos relate tal maravilha sob o testemunho destes senhores
+hamlet pelo ceu falai
+horacio duas noites a fio estes senhores o bernardo e o marcelo quando guarda montavam na hora morta da meianoite viram
+
+uma figura parecida com vosso pai armado da cabeca ate aos pes avancando com postura lenta e grave tres vezes pelos olhos pavidos lhes passou a so distancia de um bastao de comando eles gelados pelo medo ficaram sem ter animo para falarlhe o fato me confiaram sob a maior reserva ainda abalados montei guarda com eles na outra noite e eis que na hora indicada sob a forma que eles a descreveram tudo exato voltou a aparicao sim vosso pai conhecio estas maos nao se parecem tanto
+hamlet onde foi tudo isso
+marcelo na esplanada senhor onde ficavamos de guarda
+hamlet falastelhe
+horacio faleilhe sim meu principe mas nao me respondeu contudo quisme parecer que ele o rosto levantava pondose em movimento como prestes a falar mas nessa hora cantou o galo a esse canto esgueirouse ele apressado sumindo a nossa vista
+hamlet e muito estranho
+horacio por minha vida principe e a verdade pensamos que o dever nos prescrevia darvos conta de tudo
+
+hamlet naovosencubroaminha inquietacao montais guarda esta noite
+marcelo e bernardo sim alteza hamlet tinha armas o dissestes
+marcelo e bernardo sim alteza hamlet da cabeca aos pes
+marcelo e bernardo sim de alto a baixo
+hamlet entaonaolhepudestesvero rosto
+horacio comonaoaviseiraestava erguida
+hamlet e as feicoes carregadas
+horacio expressao mais de dor do que de colera
+hamlet corado ou palido horacio muito palido
+hamlet e o olhar chegou a fitarvos horacio durante todo o tempo
+hamlet desejara telo visto
+
+horacio sem duvida isso havia de causarvos profunda admiracao
+hamlet muito provavelmente e demorouse
+horacio o tempo de contar com certa calma ate cem
+marceloebernardo muitomais
+muito mais tempo
+horacio nao quando o vi hamlet e a barba era grisalha
+horacio tal como a vi quando ele ainda era vivo negroprateada
+hamlet a noite eu farei guarda talvez ele retorne
+horacio e quase certo
+hamlet se ele me aparecer sob a figura de meu pai falarlheei ainda que o inferno se me abrisse e mandasse ficar quieto mas peco a todos se a ninguem falastes dessa visao sede discretos nisso a qualquer ocorrencia desta noite trocai sinais apenas nao palavras saberei servos grato passai bem na esplanada entre as onze horas e as doze pretendo aparecer
+todos nossos respeitos
+
+hamlet vosso amor como o meu e agora adeus horacio marcelo e bernardo saem a sombra de meu pai em armas tudo vai muito mal temo qualquer desgraca ah quem dera que a noite ja chegasse mas ate la minha alma se paciente as acoes mas embora a terra as cubra aos olhos dos mortais nao se subtraem sai
+
+cena iii
+
+um quarto em casa de polonio entram laertes e ofelia
+
+
+laertes tudo o que e meu ja se acha a bordo adeus cara irma se houver ventos benfazejos e navios no porto nao te ponhas a dormir da noticias
+ofelia e duvidao
+laertes o que respeita a hamlet e seu namoro tomao como capricho simples moda violeta que a estacao produziu cedo passageira e aromosa nao duravel perfume e refrigerio de um minuto nada mais
+ofelia nada mais
+laertes isso mais nada nosso corpo ao crescer nao ganha apenas volume e musculos o templo expandese e a par tambem se alarga o espirito e a alma com seu culto interior e bem possivel que te ame agora sem que fraude alguma  lhe  macule  a  virtude  do  alvedrio  mas
+
+deves ter cautela que os de sua posicao nao sao donos de si mesmos ele e escravo do proprio nascimento nao pode como o faz gente do povo eleger para si que dessa escolha depende a seguranca e o bem do estado dai necessitar subordinala ao voto e aprovacao do corpo cuja cabeca ele e se te disser que te ama cumpre a tua prudencia darlhe credito na medida em que seja permitido passar do verbo a acao o que mais longe nao ira do que a voz da dinamarca pensa na mancha irma para tua honra se desses ao seu canto ouvido credulo e o coracao perdesses ou se abrisses o teu casto tesouro aos seus assaltos cuidado irma cuidado ofelia amiga fica na retaguarda dos anseios a coberto dos botes dos desejos ja prodigalidade e uma virgem revelar a beleza a propria lua da calunia a virtude nao se livra muitas vezes o verme estraga as flores primaveris bem antes de se abrirem no orvalho e na manha da mocidade o vento contagioso e mais nocivo se cautelosa o medo e amparo certo a mocidade e inimiga de si mesma
+ofelia encerrarei no peito como guardas essas sabias licoes mas caro irmao nao facas como alguns desses pastores que aconselham aos outros o caminho do ceu cheio de abrolhos enquanto eles seguem ledos a estrada dos prazeres sem dos proprios conselhos se lembrarem
+
+laertes nada receies mas e tempo ai vem nosso pai entra polonio dupla bencao graca dupla o acaso me concede este outro adeus
+polonio ainda aqui laertes para bordo o vento se acha a tergo de tua vela ja te reclamam vai com a minha bencao e grava na memoria estes preceitos nao des lingua aos teus proprios pensamentos nem corpo aos que nao forem convenientes se lhano mas evita abastardareste o amigo comprovado prendeo firme no coracao com vinculos de ferro mas a mao nao calejes com saudares a todo instante amigos novos foge de entrar em briga mas brigando acaso faze o competidor temerte sempre a todos teu ouvido a voz a poucos ouve opinioes mas forma juizo proprio conforme a bolsa assim tenhas a roupa sem fantasia rica mas discreta que o traje as vezes o homem denuncia nisso principalmente sao pichosas as pessoas de classe e prol na franca nao emprestes nem pecas emprestado que emprestar e perder dinheiro e amigo e o oposto embota o fio a economia mas sobretudo se a ti proprio fiel seguese disso como o dia a noite que a ninguem poderas jamais ser falso adeus que minha bencao tais conselhos faca frutificar
+laertes humildemente me despeco senhor
+
+polonio o tempo e curto vai logo que os criados ja te esperam
+laertes adeus ofelia guarda o que eu te disse
+ofelia guardeio na memoria e a chave a levas
+laertes adeus sai
+polonio quepalavrasofeliaelete disse
+ofelia seopermitisfaloudelorde hamlet
+polonio ah bem pensado ja me disseram que ele te dispensa alguma intimidade e que tu propria tens sido liberal em darlhe ouvidos se e assim de fato o que me revelaram a guisa de advertencia devo serte franco nao te comportas com a prudencia que compete a minha honra e a minha filha que e que ha entre vos dois fala a verdade
+ofelia senhor ultimamente fezme muitas propostas de afeicao
+polonio ora afeicao falas tal qual mocinha inexperiente do perigo de certas situacoes e tu acreditas em tais propostas
+
+ofelia nao sei como pensar meu pai sobre isso
+polonio ouve entao e preciso que nao passes de um bebe para teres recebido como moeda corrente essas propostas propoe agora juizo se nao queres e a pobre frase o aguenta
+  para tolo me propor
+ofelia mas senhor sua insistencia sempre foi de moral honrosa e digna
+polonio moral bela expressao adiante
+adiante
+ofelia e ele soube firmar os seus protestos de amor com os mais sagrados juramentos
+polonio conheco isso armadilha para tordos sempre que o sangue ferve a lingua os votos que a alma nao regateia vem e esplendem com mais luz que calor para extinguiremse a so promessa frustros antes do ato nao os tomes por fogo doravante restringe a tua virginal presenca nao deves por muito elevado preco nessas propostas como se ordens fossem para parlamentar enquanto a hamlet confia nele ate este ponto e moco sobre dispor de corda bem mais frouxa para andar do que a tua em suma ofelia descre dos seus protestos sao agentes que desmentem a cor do habito externo mendigos de
+
+desejos inconfessos que respiram candura e santidade para melhor lograrem novamente e em termos simples doravante proibote que sejas perdularia de teu ocio pondote a conversar com lorde hamlet ve bem que o ordeno e agora poe te a andar
+ofelia servosei obediente saem
+
+cena iv
+
+a esplanada entram hamlet horacio e marcelo
+
+hamlet que vento forte o frio e insuportavel
+horacio e o ar cortante e agitado hamlet que horas sao
+horacio penso que falta pouco para as doze
+hamlet nao ja bateram
+horacio ja nao ouvi entao nao falta muito para que o fantasma volte a aparecernos toque de trombetas e tiros de canhao atras da cena que significa esse barulho principe
+hamlet o rei esta acordado e da banquete bebe a valer rodando tudo em torno cada gole de reno e por trombetas e timbales marcado que o triunfo do brinde lhe proclamam
+horacio e costume
+
+hamlet e de fato mas a meu ver embora aqui eu tivesse o berco e a educacao e um desses habitos cuja quebra honra mais do que a observancia essas orgias torpes nos difamam de leste a oeste junto aos outros povos so nos chamam de bebedos alcunha que nos deprime por privar os nossos empreendimentos ainda os mais brilhantes da essencia medular de nosso merito isso acontece as vezes noutros meios se nasce alguem com algum defeito ingenito do que nao e culpado porque a origem para si nao escolhe a natureza pelo excesso de sangue que por vezes os fortes da razao e os diques rompem ou somente por habito que estraga a moral cotidiana esse coitado que leva pela vida tal defeito seja mancha do acaso ou vestimenta da natureza embora suas virtudes sejam tao puras quanto a graca e em numero infinito no maximo de nossa capacidade perde no conceito geral por essa falha a massa nobre se torna recalcada e diminuida pelo grao do defeito entra o fantasma
+horacio eilo meu principe
+hamlet anjos do ceu correi em nosso auxilio quer sejas um bom genio ou alma penada quer tragas ar do ceu ou sopro infecto quer tenhas intencoes ruins ou amoraveis tao duvidosa e a forma que assumiste que resolvo
+
+falarte doute o nome de hamlet rei meu pai regio danes nao me deixes em trevas dize a causa de teus ossos que a morte ja guardara terem rompido o involucro o motivo de te haver o sepulcro em que te vimos recolhido lancado de suas fortes mandibulas de marmore que pode significar vestires assim de aco para o luar de novo visitares tornando a noite hedionda e a nos ludibrio da criacao abalares deste modo com pensamentos que ultrapassam muito o ambito limitado de nossa alma fala que e isso a causa que faremos o fantasma faz sinal a hamlet
+horacio fazvos sinal para irdevos com ele como se pretendesse algo dizervos sem testemunhas
+marcelo vede o gesto cortes com que ele indica que em lugar apartado quer falarvos nao deveis atender
+horacio de forma alguma
+hamlet assim nao falara bem seguilo
+ei
+horacio ficai senhor
+hamlet de que posso temerme minha
+vida nao vale um alfinete quanto a minha alma
+
+em nada ha de ofendela por ser algo imortal como ele proprio acename de novo vou seguilo
+horacio e se vos arrastar para a agua principe ou para o pico horrendo do rochedo que no mar se acha a prumo de sua base para assumir entao forma espantosa e privar da razao a vossa alteza levandovos a insania refleti sem outra qualquer causa o simples fato do lugar faz nascer desesperadas fantasias em todo e qualquer cerebro que de tao grande altura o mar contemple e o ouca em baixo rugir
+hamlet de novo acename caminha ja te sigo
+marcelo nao deveis ir meu principe hamlet soltaime
+horacio sede razoavel principe ficai
+hamlet meu destino me chama e ele que deixa as menores arterias do meu corpo com a mesma resistencia que a dos musculos do leao de nemeia o fantasma acena outro sinal largai me desvencilhase ou pelo ceu faco um fantasma do primeiro que ousar ainda determe caminha digo irei aonde tu fores saem o fantasma e hamlet
+horacio o delirio o conduz ao desespero
+
+marcelo naodeviamosterlhe obedecido
+horacio sigamolo que fim vai ter tudo isso
+marcelo algoestaaapodrecerna dinamarca
+horacio o ceu dara remedio marcelo acompanhemolo saem
+
+cena v
+
+outra parte da esplanada entram o fantasma e hamlet
+
+
+hamlet para onde me conduzes nao darei mais um passo
+fantasma ouveme
+hamlet isso e o que desejo
+fantasma ja esta perto o momento em que e forcoso que de novo me entregue as labaredas sulfureas do tormento
+hamlet pobre espirito
+fantasma nao me lastimes ouve com atencao o segredo que passo a revelarte
+hamlet fala que estou obrigado a darte ouvidos
+fantasma e tambem a vingarme apos ouviresme
+hamlet como
+
+fantasma sou a alma de teu pai por algum tempo condenada a vagar durante a noite e de dia a jejuar na chama ardente ate que as culpas todas praticadas em meus dias mortais sejam nas chamas alfim purificadas se eu pudesse revelarte os segredos do meu carcere as menores palavras dessa historia te rasgariam a alma tornarteiam gelado o sangue juvenil das orbitas fariam que saltassem como estrelas teus olhos o penteado desfarteiam pondo ericados hirtos os cabelos como cerdas de iroso porco espinho mas essa descricao da eternidade para ouvidos nao e de carne e sangue escuta hamlet se algum dia amaste teu carinhoso pai
+hamlet o deus
+fantasma vinga o seu assassinio estranho e torpe
+hamlet assassinio
+fantasma sim assassinio torpe como todos mas esse e estranho vil e inconcebivel
+hamlet contame a fim de que eu com asas rapidas como a meditacao ou os pensamentos de amor possa vingarte
+fantasma acho que podes mais lerdo do que a espessa planta que nas margens do letes apodrece  se  isso  nao  te  abalasse  escuta
+
+hamlet contaram que uma cobra me picara quando a dormir eu no jardim me achava assim foi ludibriado todo o ouvido da dinamarca por uma noticia falsa de minha morte mas escuta nobre mancebo a cobra que peconha lancou na vida de teu pai agora cinge a coroa dele
+hamlet oh minha alma profetica meu
+tio
+fantasma sim esse monstro adultero e
+incestuoso com o feitico pessoal e com presentes
+  o dotes maus o brindes que tal forca tendes de seducao pode a vontade da rainha conquistar que parecia tao virtuosa dobrandoa para o vicio que queda hamlet do meu amor que tinha tal pureza que andava a par com o voto que eu fizera no nosso casamento a um miseravel que em confronto comigo nada vale mas se a virtude e firme ainda que o vicio sob a forma do ceu va cortejala a luxuria conquanto a um anjo presa num leito celestial cedo se enfara sonhando com carnica mas devagar pressinto o ar da manha serei breve ao acharme adormecido no meu jardim na sesta cotidiana teu tio se esgueirou por minhas horas de sossego munido de um frasquinho de meimendro e no ouvido despejoume o liquido leproso cujo efeito de tal modo se opoe ao sangue humano que corre pelas portas e caminhos do corpo tao veloz
+
+como o mercurio fazendo coagular com vigor subito o sangue puro e fino como o leite quando o acido o conturba assim comigo no mesmo instante impingens me nasceram qual se eu fosse outro lazaro nojentas pelo corpo macio adormecido desta arte me privou o irmao a um tempo da vida da coroa e da rainha morto na florescencia dos pecados sem oleos confissao nem sacramentos sem ter prestado contas para o juizo enviado com o fardo dos meus erros e horrivel sim horrivel muito horrivel se sentimento natural tiveres nao suportes tal coisa nao consintas que o leito real da dinamarca fique como catre de incesto e de luxuria contudo se nesse ato te empenhares nao te manches que tua alma nao conceba nada contra tua mae ao ceu a entrega e aos espinhos que o peito lhe compungem deles seja o castigo e agora adeus mostrame o pirilampo da madrugada ja seu fogo inativo empalidece adeus hamlet lembrate de mim sai
+hamlet legioes do ceu o terra que mais ainda invocarei o inferno firme firme coracao nao fiqueis velhos de subito musculos aguentaime que me lembre de ti sim pobre fantasma sim enquanto tiver sede a memoria neste globo conturbado lembrarme sim das tabuas da memoria hei de todas as noticias frivolas apagar as vas sentencas dos livros as imagens  os  vestigios  que  dos  anos  e  a
+
+experiencia ai deixaram essa tua ordem so ha de guardarse no volume e no livro do meu cerebro sem mais escorias sim pelo alto ceu o mulher perniciosa vilao vilao que ri vilao maldito meu canhenho preciso tomar nota que o homem pode sorrir e ser infame sei que ao menos e assim na dinamarca escreve ai vou meu tio agora minha senha vai ser adeus recordate de mim assim jurei
+horacio dentro milorde hamlet marcelo dentro principe
+horacio dentro que o ceu o ampare marcelo dentro amem
+horacio ola ola senhor
+hamlet olameninovemmeu passarinho entram horacio e marcelo
+marcelo que aconteceu senhor horacio que houve senhor
+hamlet extraordinario horacio bom senhor containos hamlet nao que o revelarieis
+horacio eu nao senhor por deus
+
+marcelo nem eu tampouco
+hamlet quejulgaisaalmahumana poderia concebelo jurais nao revelalo
+horacio e marcelo pelo ceu o juramos meu senhor
+hamlet nao ha em toda a dinamarca um biltre que possa ser tratante mais chapado
+horacio nao era necessario que nos viesse do outro mundo um fantasma dizer isso
+hamlet esta bem esta bem tendes razao desse modo sem mais formalidades apartemos as maos e dispersemonos vos para onde os negocios e os pendores vos levarem que todos os possuem sejam quais forem quanto a minha pobre parte ora vede vou rezar
+horacio sao palavras sem nexo meu senhor
+hamlet emverdadecompungeme ofendervos de coracao
+horacio nao ha ofensa principe hamlet porsaopatriciohaofensa
+horacio e grande quanto a visao de ha pouco so vosdigoqueeumfantasmahonestomas
+
+quererdes saber o que passou entre mim e ele nao pode ser sofreaivos como for e agora bons amigos sim que o somos companheiros de escola e de caserna concedeime um favor
+horacio quepodesermeuprincipe
+esta feito
+hamlet naocontaroquevistesesta noite
+horacio e marcelo nada diremos hamlet bem entao juraio
+horacio sobpalavradehonraserei mudo
+marcelo eu tambem sob palavra hamlet em minha espada
+horacio ja o juramos senhor
+hamlet bem mas agora jurai sobre esta espada
+fantasma em baixo jurai
+hamlet ola garoto estas ai valente ouvistes que da adega ele nos fala prestai o juramento
+horacio formulaio
+
+hamlet jamais falar de quanto presenciastes sobre esta espada
+fantasma em baixo jurai
+hamlet hic et ubique mudemos de lugar aqui senhores ponde as maos novamente sobre a espada nao falareis jamais sobre o que vistes jurai por minha espada
+fantasma em baixo jurai
+hamlet bravo velha toupeira e como furas a terra bom mineiro ainda mais longe meus amigos
+horacio o dia e noite e estranho
+hamlet recebamolo entao como a estrangeiro ha muita coisa mais no ceu e na terra horacio do que sonha a nossa pobre filosofia vinde novamente jurai de novo assim deus vos ajude por mais que eu me apresente sob aspecto extravagante tal como em futuro e possivel que eu venha a comportarme que jamais se me virdes alguma hora cruzar assim os bracos ou a cabeca sacudir deste jeito ou dizer frases sem nexo "muito bem" ou "poderiamos se o quisessemos" ou "vontade tenho de falar" ou discursos desse genero mostrareis saber algo que a divina graca e a misericordia vos amparem
+
+fantasma em baixo jurai
+hamlet sossega alma penada e agora amigos com todo o meu amor me recomendo e tudo o que um pobre homem como hamlet possa fazer no empenho de agradarvos nao faltara querendoo deus e vamonos peco silencio os dedos sobre os labios dos gonzos saiu o tempo maldicao ter vindo ao mundo para endireitalo partamos juntos vamonos saem
+
+ato ii
+cena i
+
+um quarto em casa de polonio entram polonio e reinaldo
+
+
+polonio reinaldo da a meu filho este dinheiro juntamente com as notas
+reinaldo assim farei senhor
+polonio andaras sabiamente bom reinaldo antes de visitalo se inquirires de sua conduta
+reinaldo assim o tencionava
+polonio muito bem dito muito bem mas olha colhe primeiro informacoes acerca dos nossos conterraneos que se encontram em paris quais os nomes como vivem com quem e quanto gastam se notares com essa digressao que eles conhecem meu filho chegarteas para mais perto de maneira que os toques com as perguntas concede que o conheces vagamente
+
+por exemplo o pai dele alguns amigos e a ele em parte compreendes bom reinaldo
+reinaldo pois nao perfeitamente meu senhor
+polonio a ele em parte diras depois nao muito se e o mesmo que suponho e um turbulento com tais e tais defeitos e atribuilhe quantos te parecer mas nao a ponto de causar lhe desonra tem cuidado somente alguns deslizes taoso aqueles mais da moda e entre os mocos compativeis com a liberdade
+reinaldo o jogo por exemplo
+polonio sim bebidas esgrima juras brigas e mulheres iras ate esse ponto
+reinaldo mas isso meu senhor o mancharia
+polonio nao se tiveres tino em teu ataque nao faras dele assunto so de escandalos como se fosse dado a incontinencia nao e isso retratalhe os defeitos quais manchas naturais da liberdade explosoes de um espirito fogoso selvajaria so de sangue indomito que investe contra tudo
+reinaldo mas senhor polonio por que tudo isso
+
+reinaldo e o que eu desejara saber meu bom senhor
+polonio eis o meu plano e a meu ver o artificio e proveitoso se a meu filho imputares essas manchas como que provenientes do trabalho toma nota teu interlocutor que iras sondando no caso de ao rapaz ter visto nelas sem receio de errar podes crer nisso ha de logo aderirte a consequencia "caro senhor" ou "amigo" ou "cavalheiro" de acordo com o falar da terra ou o titulo da pessoa
+reinaldo compreendo meu senhor polonio nessa altura ele faz ele faz
+que e que eu estava a dizer pela santa missa queria dizer algo onde foi que eu fiquei
+reinaldo "ha de logo aderirte a consequencia" e "amigo ou coisa assim" e "cavalheiro"
+polonio sim aderir a consequencia esplendido adere assim "conheco o cavalheiro vio ontem ou anteontem ou em tal dia com tais e tais e certo o que dissestes joga muito embriagouse de uma feita no tenis discutiu" ou porventura "vio entrar uma vez em casa imunda videlicet bordel" e assim por diante agora ve a isca da falsidade apanha a carpa da verdade  assim  nos  os  entendidos  usando  de
+
+cautela e circunloquios chegamos ao caminho por desvios seguindo os meus conselhos faze o mesmo sobre meu filho entendes o que eu digo
+reinaldo sim senhor
+polonio quedeus seja contigo passa bem
+reinaldo meu bom senhor
+polonio observaportimesmoseus pendores
+reinaldo e o que farei senhor
+polonio mas que ele continue com sua musica
+reinaldo perfeitamente
+polonio adeus sai reinaldo entra ofelia
+ofelia oh meu senhor causoume tanto medo
+polonio fala em nome do ceu medo por que
+ofelia estava a costurar no quarto quando descomposto me surge lorde hamlet gibao aberto sem chapeu as meias caidas nos artelhos e tao branco quanto a camisa os joelhos
+
+lhe tremiam o olhar tao cheio de piedade como vindo do inferno para relatarme os eternais horrores desse modo me apareceu
+polonio louco de amor por ti
+ofelia nao sei senhor mas em verdade o temo
+polonio que disse ele
+ofelia tomoume fortemente pelo punho e afastoume a distancia de seu braco depois com a outra mao por sobre os olhos o rosto me fitou como querendo desenhalo algum tempo assim quedouse por fim depois de sacudirme o braco e menear a cabeca por tres vezes suspirou tao profundo e tao piedoso como a despedacar selhe a estatura e firnarselhe o ser alfim soltoume e a cabeca virada parecia que sem o uso da vista se orientava pois a porta passou a sem a ter visto em mim o olhar mantendo sempre fixo
+polonio vem comigo contemos isso ao rei e o delirio do amor nem mais nem menos que com a propria violencia se aniquila conduzindo a vontade ao desespero como o nao faz outra paixao de quantas sob o ceu nos afligem estou triste nao foste aspera com ele ultimamente
+
+ofelia nao meu pai mas conforme o prescrevestes lhe devolvi as cartas e negueime a recebelo
+polonio foi o que o pos doido pesame nao o haver considerado com mais vagar pensei que era namoro e que sua intencao fosse perder te maldita desconfianca em nossa idade e comum sempre o excesso nos juizos como e proprio dos mocos carecerem de discricao convem contalo ao rei mor dano colheremos se calarmos do que odio se esse amor lhe revelarmos vem saem
+
+cena ii
+
+um quarto no castelo entram rei a rainha rosencrantz e guildenstern
+
+
+o rei bemvindos rosencrantz e guildenstern ainda que desejassemos revervos a urgencia de empregarvos deu motivo a este chamado certo ouvistes algo sobre a transformacao de hamlet assim lhe chamo que o exterior dele e o seu intimo nao sao agora os mesmos qual a causa fora a morte do pai que o pos desta arte tao alheio a sua propria inteligencia nao na posso saber por isso peco vos ja que ambos fostes criados juntos com ele tao afins no carater e na idade que vos digneis ficar em nossa corte por algum tempo para o distrairdes com vossa companhia e tambem para investigardes sempre que possivel se algo que nos escapa o mortifica e que uma vez sabido remediemos
+a rainha tem falado bastante nos senhores nao pode haver outras pessoas que ele tanto aprecie se vos for do agrado mostrarnos
+
+boa vontade e gentileza despendendo conosco vosso tempo para lucro taoso de nosso anseio tera nossa visita premio digno do reconhecimento de um monarca
+rosencrantz esta em vossas majestades pelo jus da soberania nao pedirnos favor mas ordenarnos como o queira vosso augusto prazer
+guildenstern estamos prontos a obedecervos tensos ate ao maximo viemos nos por aos pes de vossa alteza para sermos mandados
+o rei muito obrigado rosencrantz querido guildenstern
+a rainha muito obrigada guildenstern querido rosencrantz e com muito carinho que vos peco visitardes meu filho que se encontra tao mudado um dai sirva de guia e conduza ate hamlet estes senhores
+guildenstern praza ao ceu que lhe seja util e grato nosso auxilio e presenca
+a rainha deus o queira saem rosencrantz guildenstern e alguns criados entra polonio
+polonio regressaram contentes da noruega meu bom senhor os nossos emissarios
+
+o rei sempre fostes o pai de boas novas
+polonio nao e verdade posso assegurar vos que eu dedico o dever assim como a alma primeiro a deus depois ao meu querido soberano e ora penso salvo se esta cabeca ja nao segue como dantes o rasto da prudencia haver achado o motivo de estar hamlet louco
+o rei revelaimo a noticia me alvoroca
+polonio primeiro os emissarios a noticia vai ser a sobremesa do banquete
+o rei pois fazelhes as honras e os conduze sai polonio disse minha querida haver achado as origens da doenca de teu filho
+a rainha temo que seja apenas a mais grave o traspasso do pai e nosso enlace
+o rei sondaloemos volta polonio com voltimando e cornelio bemvindos bons amigos dizeime voltimando o que trouxestes de nosso irmao noruega
+voltimando retribuivos cumprimentos e enviavos saudares mal nos ouviu mandou suspender todas as levas do sobrinho que julgava serem preparacoes contra o polaco mas que certo depois soube visarem vossa alteza indignado com tamanho desrespeito a sua idade e ao  proprio  achaque  da  velhice  mandou  vir
+
+fortimbras preso que lhe obedece prontamente e apos ser admoestado por noruega promete ao tio que jamais as forcas empregaria contra vossa alteza com o que o velho noruega jubiloso tres mil coroas de pensao lhe outorga com a permissao de usar contra o polaco justamente os soldados alistados ao lado do pedido aqui explanado entrega uma carta de que vos seja grato o livre transito dessas tropas por vosso territorio em condicoes de inteira seguranca contidas nesta carta
+o rei muito bem vamos lela com a calma necessaria responderlhe e pensar sobre a materia agradecemos vossos bons servicos agora descansai cearemos juntos bemvindos ao meu lar saem voltimando e cornelio
+polonio foi bem solucionada essa pendencia meu rei minha senhora pretender explicar o que seja a majestade ou o dever porque o dia e dia e a noite e noite e o tempo e tempo vale o mesmo que malgastar o dia a noite e o tempo e certo a concisao e a alma do espirito como a prolixidade os seus suportes e flores exteriores vou ser breve vosso filho esta louco sim e o termo mais acertado pois em que consiste a loucura senao em sermos loucos que seja
+a rainha mais materia menos arte
+
+polonio juro que nao faco uso de arte alguma que e louco e certo e certo e mete pena mete pena ser certo ruim antitese pois deixemo la quero falar simples louco e como lhe chamo so nos falta descobrir qual a causa desse efeito ou melhor qual a causa do defeito que o efeito defeituoso tem sua causa assim ficou o resto e como segue considerai tenho uma filha tenho enquanto e minha a qual fiel a obediencia que me deve notai bem me deu isto ora conclui "ao idolo de minha alma a divina e embelezada ofelia" expressao horrorosa e banal embelezada muito banal mas ouvi ate ao fim "ao seu seio candido e delicado estas etc"
+a rainha hamlet lhe enviou isso
+polonio senhora mais paciencia direi tudo "duvida da luz dos astros de que o sol tenha calor duvida ate da verdade mas confia em meu amor querida ofelia nao sou muito forte na contagem das silabas nao possuo a arte de medir os meus suspiros mas que te amo muitissimo infinitamente podes crerme adeus o teu para sempre querida menina enquanto esta maquina lhe pertencer hamlet" eis o que minha filha me contou por obediencia e mais suas instantes declaracoes segundo o modo o tempo e as oportunidades
+o rei e ela como o acolheu
+
+polonio que pensais senhor de mim
+o rei que sois pessoa honrada e de confianca
+polonio pois provaloei que havieis de pensar se eu visse alcar o voo amor tao fervido e o percebi vos digo antes de minha filha mo revelar que pensarieis ou a minha majestade aqui presente se eu tivesse servido de carteira ou pasta de papeis ou entao piscado ao coracao ficando quieto e mudo e indiferente contemplasse o caso que pensarieis nao pusme em campanha e falei deste modo a senhorita "lorde hamlet esta acima de tua esfera nao pode ser" e deilhe bons conselhos para que ela o evitasse dai em diante recusasse recados e presentes posse ela a aproveitarse dos conselhos e ele para ser breve repelido cai em melancolia a que se segue jejum falta de sono abatimento e distracao e assim piorando sempre cai na loucura em que ora se debate e nos punge
+o rei pensais entao seja isso
+a rainha pode ser bem plausivel polonio ja aconteceu anseio por sabe
+lo ter eu dito "tal coisa e deste modo" que assim nao fosse
+o rei nao que o saiba
+
+polonio indicando a cabeca e os ombros arrancai esta destes se isso e falso pelo rasto descubro onde se encontra escondida a verdade ainda que seja no proprio centro
+o rei e como comprovalo
+polonio sabeis que ele passeia horas seguidas aqui na galeria
+a rainha e habito seu
+polonio mandarei minha filha vir falar lhe nos ficamos atras desta cortina observai bem os fatos se a nao ama mudaime da funcao de conselheiro para a de carroceiro ou campones
+o rei facamos a experiencia
+a rainha mas vede como e triste o pobrezinho vem lendo um livro
+polonio e urgente deveis ambos sair eu vos suplico vou falarlhe saem o rei a rainha e os criados entra hamlet lendo como passa o meu bom principe hamlet
+hamlet bem gracas a deus polonio conheceisme milorde
+hamlet perfeitamente sois um peixeiro polonio eu nao milorde
+
+hamlet pois quisera que fosseis tao honesto
+polonio honesto principe
+hamlet sim porque do jeito em que o mundo anda ser honesto equivale a ser escolhido entre dez mil
+polonio e muito certo isso principe
+hamlet porque se o sol gera vermes no cadaver de um cao carnica muito bela para ser beijada nao tendes uma filha
+polonio tenho milorde
+hamlet entao nao a deixeis passear ao sol a concepcao e uma bencao nao porem como vossa filha pode conceber cuidado amigo
+polonio que quereis dizer com isso a parte sempre com a ideia em minha filha no entanto a principio nao me reconheceu tendo me tomado por um peixeiro o mal ja vai longe mas para ser franco na minha mocidade o amor me fez sofrer bastante cheguei quase a esse ponto vou falarlhe outra vez que e que o meu principe esta lendo
+hamlet palavras palavras palavras polonio a que respeito principe
+
+hamlet entre quem
+polonio refirome ao assunto de vossa leitura principe
+hamlet calunias meu amigo este escravo satirico diz que os velhos tem a barba grisalha a pele do rosto enrugada que dos olhos lhes destila ambar tenue e goma de ameixeira sobre carecerem de espirito e possuirem pernas fracas mas embora senhor eu esteja intima e grandemente convencido da verdade de tudo isso nao considero honesto publicalo por que se pudesseis ficar tao velho quanto eu sem duvida alguma andarieis para tras como caranguejo
+polonio a parte apesar de ser loucura revela metodo nao quereis sair do vento principe
+hamlet entrar na sepultura
+polonio realmente desse modo sairieis do vento a parte como sao agudas nao raro as suas respostas e uma felicidade da loucura algumas vezes felicidade que a razao e o bom senso nao alcancam com a mesma facilidade vou deixalo a fim de arranjar maneira de que se encontre com minha filha meu muito digno senhor desejo humildemente pedir permissao para despedirme
+
+hamlet pois nao nao podeis pedir coisa que eu cedesse de melhor boa vontade exceto a vida exceto a vida exceto a vida
+polonio passai bem meu principe retirandose
+hamlet esses velhos cacetes e sem miolo entram rosencrantz e guildenstern
+polonio procurais lorde hamlet esta aqui
+rosencrantz deus vos guarde senhor sai polonio
+guildenstern nobre senhor rosencrantz meu querido principe hamlet carosamigoscomopassais
+guildensternahrosencrantzbonsamigos como ides passando
+rosencrantz como filhos mediocres da terra
+guildenstern felizes por nao o sermos em demasia nao somos o botao mais alto do gorro da fortuna
+hamlet nem a sola de seus sapatos rosencrantz nem isso principe
+
+hamlet entao viveis na zona da cintura ou no meio de seus favores
+guildenstern de fato vivemos em sua intimidade
+hamlet nas partes secretas da fortuna
+realmente e uma meretriz que novidades ha
+rosencrantz nenhuma principe a nao ser que o mundo se tornou honesto
+hamlet nesse caso aproximase o dia do juizo mas para ficarmos no caminho trilhado da amizade que vos trouxe a elsinor
+rosencrantz fazervos uma visita principe nada mais
+hamlet sou um mendigo que sofre de penuria ate de agradecimentos contudo agradecovos com a certeza meus caros de que esses agradecimentos ja serao caros demais por um real nao fostes chamados viestes de moto proprio tratase de visita espontanea vamos vamos sede sinceros comigo dizeime a verdade
+gtjildenstern que poderemos dizer senhor
+hamlet qualquer coisa contanto que sirva ao caso fostes chamados leio em vosso olhar uma especie de confissao que a modestia
+
+que vos e propria nao consegue mascarar sei perfeitamente que o bom rei e a rainha mandaram chamarvos
+rosencrantz com que fim senhor hamlet   e  o  que  ireis  dizerme  mas
+conjurovos pelos direitos de nossa camaradagem pela consonancia da idade pelas obrigacoes de nossa sempre comprovada afeicao e por tudo de mais caro que pudesse ser invocado por um orador mais convincente do que eu sede sinceros comigo fostes ou nao fostes chamados
+rosencrantz a parte para guildenstern
+  que dizeis a isso
+hamlet a parte nao vos perco de vista
+se me tendes amizade nada de evasivas
+guildenstern de fato principe fomos chamados
+hamlet vou dizervos o motivo desse modo antecipandose minhas presuncoes a vossas declaracoes nao oscilara no minimo a discricao que deveis ao rei e a rainha de tempos a esta parte por motivos que me escapam perdi toda a alegria e descuideime dos meus exercicios habituais tao grave e o meu estado que esta magnifica estrutura a terra se me afigura um promontorio esteril este maravilhoso
+
+dossel ora vede o ar este excelente firmamento que nos cobre este majestoso teto incrustado de aureos fogos tudo isto para mim nao passa de um amontoado de vapores pestilentos que obraprima o homem quao nobre pela razao quao infinito pelas faculdades como e significativo e admiravel na forma e nos movimentos nos atos quao semelhante aos anjos na apreensao como se aproxima dos deuses adorno do mundo modelo das criaturas no entanto que e para mim essa quintescencia de po os homens nao me proporcionam prazer sim nem as mulheres apesar de vosso sorriso querer insinuar o contrario
+rosencrantz nao pensei em semelhante coisa principe
+hamlet entao por que sorristes quando eu disse que os homens nao me proporcionam prazer
+rosencrantz por pensar que se isso acontece os atores vao ter uma recepcao de quaresma apanhamolos em caminho vem para oferecervos os seus servicos
+hamlet sera bemvindo o que representa o rei sua majestade recebera as minhas homenagens o cavalheiro andante fara uso do florete e do escudo o amante nao suspirara de graca o caprichoso ira em paz ate ao fim do seu
+
+papel o bobo fara rir aos que tiverem pulmoes que disparem ao menor toque as damas exporao livremente o seu pensar para que o verso branco nao fique estropiado que especie de atores sao eles
+rosencrantz os mesmos de que tanto gostaveis os atores da cidade
+hamlet e por que estao viajando se ficassem fixos so poderiam ganhar assim na reputacao como em vantagens materiais
+rosencrantz penso ser isso resultado da ultima sedicao
+hamlet ainda gozam de conceito igual ao do tempo em que eu estava na cidade
+rosencrantz nao tanto meu senhor
+hamlet e qual a causa ficaram enferrujados
+rosencrantz nao esforcamse como de costume mas apareceu por ai uma ninhada de criancas uns frangotes que trazem a publico todas as particularidades da questao pelo que sao barbaramente aplaudidos estao agora em moda cacarejando de tal maneira nos teatros comuns como eles lhes chamam que muita gente de espada receia ir la com medo das penas de pato
+
+hamlet como assim sao criancas e quem os mantem quem lhes paga ordenados so exercerao a arte enquanto puderem cantar nao dirao mais tarde se se tornarem atores comuns o que e de presumir uma vez que lhes faltam maiores cabedais nao dirao que os escritores abusaram deles fazendo os declamar contra seu proprio futuro
+rosencrantz em verdade de parte a parte nao tem faltado materia para brigas sem que o povo revele escrupulos em espicacalos epoca houve em que a peca nada rendia se o poeta e o ator nao fossem as vias de fato com seus adversarios
+hamlet e possivel
+guildenstern oh tem havido grande desperdicio de inteligencia
+hamlet e os meninos carregaram os louros da vitoria
+rosencrantz foi realmente o que se deu milorde carregaram hercules e mais o seu fardo
+hamlet nao admira meu tio e rei da dinamarca e aqueles que lhe faziam caretas em vida de meu pai dao agora vinte quarenta cinquenta e ate cem ducados por seu retrato em
+
+miniatura por minha vida ha algo de sobre natural em tudo isso assim pudesse a filosofia descobrilo ouvese toque de clarins
+guildenstern sao os atores que chegam
+hamlet senhores sois bemvindos a elsinor apertemonos as maos os cumprimentos e cortesias sao as pertencas das boasvindas consenti que vos saude deste modo para que minha atitude em relacao aos atores e posso assegurarvos que vai ser de brilhante aparencia
+  nao pareca acolhimento mais afetuoso do que o que vos dispenso sois bemvindos mas meu tiopai e minha tiamae se enganaram
+guildenstern em que senhor
+hamlet eu so fico louco quando o vento sopra de nornoroeste com vento sul distingo perfeitamente um falcao de uma garca entra polonio
+polonio meus cumprimentos senhores
+hamlet escuta guildenstern e tu tambem para cada ouvido um ouvinte esse bebe grande que estais vendo ainda nao saiu dos cueiros
+
+rosencrantz nesse caso voltou a usa los porque dizem que a velhice e uma segunda infancia
+hamlet sou capaz de adivinhar que vem falarme dos atores tendes razao senhor foi justamente na manha de segundafeira
+polonio meu senhor tenho uma noticia a darvos
+hamlet meu senhor tenho uma noticia a darvos quando roscius era ator em roma
+polonio os atores acabam de chegar principe
+hamlet lara lara polonio palavra de honra
+hamlet entao cada um veio montado na sua besta
+polonio sao os melhores do mundo para tragedia comedia historia pastoral comedia pastoral pastoral historica pastoral tragico historica tragicocomicohistorica cenas sem divisao ou poesia sem limite para eles seneca nao e muito pesado nem plauto leve demais sao unicos tanto para ler como no improviso
+
+hamlet ojeftejuizdeisraelque tesouro possuias
+polonio que tesouro era principe
+hamlet oratinhaumafilhanada mais que ele adorava sobre tudo
+polonioaparte semprecomminha filha na ideia
+hamlet nao tenho razao velho jefte polonio se me chamais de jefte senhor
+tenho uma filha a quem adoro sobre todas as coisas
+hamlet nao e essa a consequencia polonio qual sera principe
+hamlet ora a sorte so pos o que deus dispos o resto sabeis muito bem dai terse dado o que era esperado a primeira parte dessa cancao de natal vos informara melhor mas ai vem vindo o resumo do meu discurso entram quatro ou cinco atores bemvindos senhores sois todos bemvindos alegrome verte com saude bemvindos bons amigos ola meu velho amigo da ultima vez que te vi nao tinhas essas franjas no rosto vieste a dinamarca para pegarme pela barba oh a minha menina e senhora por nossa senhora vossa senhoria esta mais perto do ceu
+
+do que da ultima vez que a vi a diferenca de um chapim queira deus que nao tenha acontecido com a voz como com as moedas que sao retiradas da circulacao por ficarem rachadas junto da orla senhores sede todos bemvindos facamos porem como os falcoeiros franceses que solam contra tudo o que vem linguagem direta daime uma amostra de vossa arte um discurso bem patetico
+primeiro ator qual sera principe
+hamlet de uma feita ouvite declamar um trecho que nunca foi levado a cena ou quando muito uma unica vez lembrame perfeitamente a peca nao agradou aos milhoes era caviar jogado ao povo mas segundo o meu modo de ver e o de pessoas cuja opiniao no assunto e mais autorizada do que a minha era uma peca excelente com boa disposicao de cenas e escrita com tanta sobriedade quanta argucia recordame ter ouvido a alguem que os versos nao continham nada de picante para tornalos aceitaveis e que nenhuma expressao traia afetacao por parte do autor o estilo foi qualificado de honesto tao sadio quanto agradavel e aprazivel sem rebuscamentos apreciava muitissimo certa passagem e fala de eneias a dido especialmente quando ele trata do assassinio de priamo se a tens de memoria comeca pela frase espera um pouco deixa
+
+ver como tigre da hircania o feroz pirro nao nao e isso comeca com pirro esse pirro feroz que armas trazia da cor do proprio intenso igual a noite que o envolvia no ventre do cavalo sinistro e malfadado a negra forma com brasoes mais sinistros ora cobre da cabeca ate aos pes e todo rubro enfeitao horrendamente o triste sangue dos pais das maes das filhas dos filhinhos ressecado nas ruas abrasadas que emprestam uma luz maldita e barbara a seus crimes nefandos a arder de ira empastado de sangue coagulado os olhos a brilharem quais carbunculos pirro o maldito busca o venerando priamo agora prossegue
+polonio por deus principe muito bem declamado boa cadencia e discricao
+primeiro ator conseguiu por fim acha lo a lutar sem vantagem contra os gregos sua antiquada espada ao braco infensa fica onde cai rebelde a seus mandados em duelo desigual pirro o acomete mas ao simples sibilo de seu gladio tomba o velho enervado exanime ilio pareceu ressentirse desse golpe dobra ate a base o pico de suas chamas e com medonho estrondo prende o ouvido de pirro vede a espada que ja vinha baixando sobre a candida cabeca do venerando priamo parece que o proprio ar a detem desta arte pirro qual tirano em pintura fica imovel como que neutro entre a vontade e o
+
+braco sem fazer nada mas tal como pouco antes das tormentas silencio em todo o ceu calmas as nuvens os ventos sem falar e a terra embaixo tao quieta quanto a morte quando o raio de subito fuzila assim depois da parada de pirro a despertada vinganca o compeliu para outros feitos os malhos dos ciclopes nunca as armas de marte percutiram fabricadas para ampararem sempre com tao pouco remorso como bate a espada rubra de pirro sobre priamo fortuna fora meretriz o deuses do conselho geral tirai lhe a forca quebrai pinas e raios de seu carro e fazei do alto ceu rolar o cubo para o centro do inferno
+polonio acho muito comprido
+hamlet enviaia entao ao barbeiro para que a corte juntamente com vossa barba continua pecote eu a nao ser em farsas ou historias obscenas ele adormece logo prossegue cheguemos logo a hecuba
+primeiro ator oh quem visse a rainha encapuzada
+polonio nao fica mal rainha encapuzada vai muito bem
+primeiro ator descalca corre as chamas ameacando as lagrimas a cegam por diadema cinge apenas um trapo e como vestes
+
+sobre os lombos delgados e sofridos um cobertor as pressas apanhado quem visse tal com lingua envenenada acusara a fortuna de traidora mas se os deuses nessa hora a contemplassem quando ela a pirro deparou no esporte maligno de cortar do esposo os membros o clamor subitaneo de sua magoa se os mortais nao lhe sao de todo estranhos faria enlanguescer os olhos quentes do ceu e os proprios deuses se apiedarem
+polonio vede como ele muda de cor e tem os olhos marejados de lagrimas nao prossigas pecote
+hamlet esta bem depois me diras o resto caro senhor quereis incumbirvos da hospedagem destes atores mas tomai nota que sejam bem tratados porque sao o espelho e a cronica resumida da epoca servosia preferivel um ruim epitafio depois de morto a andardes em vida difamados por eles
+polonio pois nao principe hei de trata los de acordo com seu merecimento
+hamlet com a breca homem muito melhor se fosseis tratar todas as pessoas de acordo com o merecimento de cada uma quem escaparia da chibata tratai deles de acordo com vossa honra e dignidade quanto menor o seu
+
+merecimentomaiorvalorteraavossa generosidade levaios
+polonio vamos senhores
+hamlet amigos acompanhaio amanha teremos representacao sai polonio com os atores com excecao do primeiro ator ouviste velho amigo podes representar a peca "a morte de gonzaga"
+primeiro ator perfeitamente senhor
+hamlet entao sera amanha a noite e sertea possfvel em caso de necessidade decorar um discurso de doze ou dezesseis linhas que vou escrever para insertar na peca e possivel
+primeiro ator perfeitamente meu senhor
+hamlet muito bem acompanha aquele senhor mas pecote que nao zombes dele sai o primeiro ator meus bons amigos vou deixalos ate a noite sois bemvindos a elsinor
+rosencrantz meu bom senhor saem rosencrantz e guildenstern
+hamlet que deus os acompanhe enfim sozinho que velhaco sou eu que vil escravo pois nao  sera  monstruoso  este  ator  pode  numa
+
+simples ficcao num sonho apenas de paixao forcar a alma aos seus preceitos a ponto de fugir lhe a cor do rosto marejaremlhe os olhos o conspecto confundirselhe a voz tornarse tremula e toda a compostura conformarse as suas influicoes tudo por nada por hecuba que e ele de hecuba hecuba que e dele para chorar por ela que faria se tivesse como eu deixas violentas inundara de lagrimas o palco rasgara o ouvido a todos com seus gritos assombrados deixara os inocentes insanos os culpados confundidos os ignorantes sim deixara atonitos os sentidos usuais da vista e ouvido ao passo que eu um parvo feito so de lama um nescio como um joaosonhador sem nenhum plano de vinganca me calo quando a vida preciosa e o trono um rei a perder veio por maneira tao barbara e maldita serei covarde quem me lanca o apodo de vilao a cabeca me abre em duas a barba arrancame e atirama no rosto puxame do nariz de mentiroso me acoima ate os pulmoes quem me faz isso ah fora bem feito e a causa nao e outra tenho sangue de pombo o fel me falta que a opressao torna amarga ou ja teria dado as entranhas desse escravo a todos os abutres do ceu vilao nojento sanguinario traidor devasso esteril oh vinganca oh que grande asno eu sou como e ser bravo filho de um pai querido assassinado a quem o inferno e o  ceu  mandam  vingarse  e  aliviarme  a  falar
+
+como uma simples meretriz a insultar como uma criada que vergonha vamos cabeca a postos tenho ouvido dizer que os criminosos quando assistem a representacoes de tal maneira se comovem com a cena que confessam na mesma hora em voz alta seus delitos pois embora sem lingua o crime fala por modo milagroso esses atores irao representar para meu tio a morte de meu pai hei de observarlhe os olhos e sondar lhe a alma ate o fundo se se assustar conheco o meu caminho talvez que o espirito que eu vi nao passe do demonio que pode assumir formas atraentes sim talvez mesmo tencione perderme aproveitandose de minha melancolia e pouca resistencia como soi proceder com tais espiritos preciso de razoes mais convincentes do que isso tudo e a peca e a coisa eu sei com que a consciencia hei de apanhar o rei sai
+
+ato iii
+cena i
+
+um quarto no castelo entram o rei a rainha polonio ofelia rosencrantz e guildenstern
+
+
+o rei nao tivestes ensejo na conversa de saber o que o pos nessa desordem que seus dias de calma tanto abala com demencia inquieta e perigosa
+rosencrantz confessa que se sente perturbado mas a causa persiste em nao dizela
+guildenstern nao o achamos disposto a ser sondado com a astucia da loucura se esquivava sempre que pretendiamos levalo a falar de si mesmo
+a rainha como vos recebeu rosencrantz como perfeito cavalheiro guildenstern conquanto algo forcado
+rosencrantz avaro em perguntar mas respondendo com liberalidade
+
+a rainha convidasteo para algum passatempo
+rosencrantz aconteceu senhora que encontramos em caminho uns atores a noticia recebeua com mostras de alegria ja se acham no palacio penso mesmo que vao representar para ele a noite
+polonio e verdade pediume que falasse com vossas majestades concitandovos a ver e ouvir a peca
+o rei de todo o coracao muito me alegra sabelo assim disposto continuai cavalheiros a animalo despertandolhe o gosto para as festas
+rosencrantz pois nao senhor saem rosencrantz e guildenstern
+o rei doce gertrudes deixanos mandamos vir secretamente a hamlet para que ele se encontre com ofelia como por acidente eu e seu pai legitimos espias vendo sem sermos vistos poderemos avaliar do encontro imparcialmente e concluir do seu procedimento se e amor em verdade ou se outra e a causa que o faz sofrer assim
+a rainha ja me retiro no que te toca ofelia so desejo que seja a tua beleza a feliz causa da loucura de hamlet pois espero que tua
+
+virtudeoleveatrilhaantigaparahonrade ambos
+ofelia eu de mim o espero tambem minha senhora sai a rainha
+polonio chega ofelia para aqui majestade ora busquemos nosso lugar e tu le neste livro a leitura pretexto sera para tua solidao frequentes vezes somos passiveis de censura pois abundam provas sobre isso de que com bondade simulada e acoes pias conseguimos tornar acucarado o proprio diabo
+o rei a parte quao verdadeiro como essas palavras me chicoteiam fundo a consciencia o rosto rebocado das rameiras nao e mais feio sob a artificial beleza do que a minha acao debaixo do verniz com que a enfeitam meus discursos oh fardo horrivel
+polonio eilo que chega meu senhor saiamos o rei e polonio saem entra hamlet
+hamlet ser ou nao ser eis a questao que e mais nobre para a alma suportar os dardos e arremessos do fado sempre adverso ou armarse contra um mar de desventuras e dar lhes fim tentando resistirlhes morrer dormir mais nada imaginar que um sono poe remate aos sofrimentos do coracao e aos golpes infinitos que  constituem  a  natural heranca da carne e
+
+solucao para almejarse morrer dormir dormir talvez sonhar e ai que bate o ponto o nao sabermos que sonhos podera trazer o sono da morte quando alfim desenrolarmos toda a meada mortal nos poe suspensos e essa ideia que torna verdadeira calamidade a vida assim tao longa pois quem suportaria o escarnio e os golpes do mundo as injusticas dos mais fortes os maustratos dos tolos a agonia do amor nao retribuido as leis amorosas a implicancia dos chefes e o desprezo da inepcia contra o merito paciente se estivesse em suas maos obter sossego com um punhal que fardos levaria nesta vida cansada a suar gemendo se nao por temer algo apos a morte terra desconhecida de cujo ambito jamais ninguem voltou que nos inibe a vontade fazendo que aceitemos os males conhecidos sem buscarmos refugio noutros males ignorados de todos faz covardes a consciencia desta arte o natural frescor de nossa resolucao definha sob a mascara do pensamento e empresas momentosas se desviam da meta diante dessas reflexoes e ate o nome de acao perdem mas silencio ai vem vindo a bela ofelia em tuas oracoes ninfa recordate de meus pecados
+ofeliacomotempassadoprincipeno correr de tantos dias
+
+hamlet muitissimo obrigado bem bem bem
+ofelia tenho algumas lembrancas suas principe que ha muito devolver eu desejara recebaas por favor
+hamlet eu nao eu nao eu nunca te dei nada
+ofelia o principe bem sabe que e verdade e com palavras de tao doce anelito que o valor dos presentes aumentava mas evolado o aroma agora os trago os brindes se empobrecem para uma alma bemnascida de par com os sentimentos de quem os da eilos aqui meu principe
+hamlet ah ah es honesta ofelia como assim principe hamlet es bela
+ofelia que quer dizer vossa alteza com isso
+hamlet e que se fores a um tempo honesta e bela nao deves admitir intimidade entre a tua honestidade e a tua beleza
+ofelia mas principe podera haver melhor companhia para a beleza do que a honestidade
+
+hamlet realmente que a beleza com o seu poder levaria menos tempo para transformar a honestidade em alcoviteira do que esta em modificar a beleza a sua imagem ja houve epoca em que isso era paradoxo mas agora o tempo o confirma cheguei a amarte
+ofelia em verdade o principe me fez acreditar nisso
+hamlet nao deverias terme dado credito porque a virtude nao pode enxertarse em nosso velho tronco sem que deste nao remanesca algum travo nunca te amei
+ofelia tanto maior e a minha decepcao
+hamlet entra para um convento por que has de gerar pecadores eu de mim considero me mais ou menos honesto mas poderia acusar me de tais coisas que teria sido melhor que minha mae nao me houvesse dado a luz sou orgulhoso vingativo cheio de ambicao e disponho de maior numero de delitos do que de pensamentos para vestilos imaginacao para dar lhes forma ou tempo para realizalos para que rastejarem entre o ceu e a terra tipos como eu todos somos consumados velhacos nao deves confiar em ninguem toma o caminho do convento onde se encontra teu pai
+ofelia em casa alteza
+
+hamlet que lhe fechem as portas a fim de impedirem que faca papel de tolo a nao ser em sua propria casa adeus
+ofelia ajudao ceu de bondade
+hamlet se tiveres de casar doute por dote a seguinte maldicao ainda que sejas casta como o gelo e pura como a neve nao escaparas a calunia vai entra para o convento adeus ou entao se tiveres mesmo de casar escolhe um nescio para marido porque os assisados sabem perfeitamente em que monstros as mulheres os transformam para o convento vai e isso depressa adeus
+ofelia poderes celestiais restituilhe a razao
+hamlet conheco muito bem vossas pinturas deus vos deu um rosto e arrumais outro andais aos pulinhos e com requebros falais cheias de esses e dais nomes indecentes as criaturas de deus fazendo vossa leviandade passar por inocencia vai nao insisto porque foi isso que me deixou louco o que digo e que nao teremos casamentos os que ja sao casados com excecao de um hao de continuar vivos os de mais prosseguirao como estao para o convento vai sai
+
+ofelia que nobre inteligencia assim perdida o olho do cortesao a lingua e o braco do sabio e do guerreiro a mais florida esperanca do estado o proprio exemplo da educacao o espelho da elegancia o alvo dos descontentes tudo em nada e eu a mais desgracada das mulheres que saboreei o mel de suas juras musicais ter de ver essa admiravel razao perder o som qual sino velho essa forma sem par a flor da idade fanada pela insania o dor sem fim ter ja visto o que vi e velo assim entram o rei e polonio
+o rei qual amor sua doenca nao vem disso depois o que ele disse ainda que estranho nao parece loucura na alma dele algo a melancolia esta chocando e nao duvido que o produto possa causar algum perigo que e preciso prevenir dai eu ter nisto assentado depressa mandaloei sem mais delongas a inglaterra a cobrar velhos tributos e possivel que o mar o novo clima e a diferenca dos objetos venham a libertalo dessa qualquer coisa com que o cerebro dele se preocupa alheandoo de si mesmo que pensais
+polonio ha de ganhar com isso porem creio que a origem e o comeco da tristeza vem de amor desprezado entao ofelia nao precisas falar de lorde hamlet ouvimos tudo procedei senhor como entenderdes mas se achardes util fazei que ele se encontre com a rainha depois da
+
+peca para a sos falarlhe sobre o que o traz assim e que ela seja franca eu de mim se o consentis me ponho a ouvilos escondido se ela nada conseguir envialoei sem mais demora para a inglaterra ou entao mandareis polo onde quer que a prudencia vos indique
+o rei farsea dessa maneira e sempre ousada a loucura dos grandes nao vigiada sai
+
+cena ii
+
+entram hamlet e alguns atores
+
+hamlet tem a bondade de dizer aquele trecho do jeito que eu ensinei com naturalidade se encheres a boca como costumam fazer muitos dos nossos atores preferira ouvir os meus versos recitados pelo pregoeiro publico nao te ponhas a serrar o ar com as maos desta maneira se temperado nos gestos por que ate mesmo na torrente e na tempestade direi melhor no turbilhao das paixoes e de mister moderacao para tornalas maleaveis oh doime ate ao fundo da alma ver um latagao de cabeleira reduzir a frangalhos uma paixao a verdadeiros trapos trovejar no ouvido dos assistentes que na maioria so apreciam barulho e pantomima sem significado da gana de acoitar o individuo que se poe a exagerar no papel de termagante e que pretende ser mais herodes do que ele proprio por favor evita isso
+primeiro ator vossa alteza pode ficar tranquilo
+
+hamlet tambem nao e preciso ser mole demais que a discricao te sirva de guia acomoda o gesto a palavra e a palavra ao gesto tendo sempre em mira nao ultrapassar a modestia da natureza porque o exagero e contrario aos propositos da representacao cuja finalidade sempre foi e continuara sendo como que apresentar o espelho a natureza mostrar a virtude suas proprias feicoes a ignominia sua imagem e ao corpo e idade do tempo a impressao de sua forma o exagero ou o descuido no ato de representar podem provocar riso aos ignorantes mas causam enfado as pessoas judiciosas cuja censura deve pesar mais em tua apreciacao do que os aplausos de quantos enchem o teatro oh ja vi serem calorosamente elogiados atores que para falar com certa irreverencia nem na voz nem no porte mostravam nada de cristaos ou de pagaos ou de homens sequer e que de tal forma rugiam e se pavoneavam que eu ficava a imaginar terem sido eles criados por algum aprendiz da natureza e pessimamente criados tao abominavel era a maneira por que imitavam a humanidade
+primeiro ator quero crer que entre nos tudo isso esta bem modificado
+hamlet faze uma reforma radical que os truoes nao digam mais do que o que lhes compete pois ha deles que vao a ponto de rir
+
+somente para provocarem riso aos parvos ate mesmo em passagens com algo merecedor de atencao e vergonhoso sobre revelar ambicao estupida por parte de quem se vale de semelhante recurso vai aprontarte entram polonio rosencrantz e guildenstern entao senhor o rei ira ouvir a nossa peca
+polonio e a rainha tambem sem nenhum atraso
+hamlet nesse caso apressai os atores sai polonio nao poderieis ajudalo nessa tarefa
+rosencrantzeguildenstern com
+todo o gosto meu principe
+hamlet ola horacio entra horacio
+horacio aqui me tendes senhor as vossas ordens
+hamlet horacio es a pessoa mais talhada para meu companheiro e confidente
+horacio meu principe
+hamlet nao penses que e lisonja que fora de esperar que me emprestasses se so tens como renda a tua alma grande que te veste e alimenta por que a um pobre lisonjear nao a lingua acucarada lambe as pompas estupidas os gonzos moles dos joelhos dobramse onde lucros
+
+advem do rastejar estas me ouvindo des que minha alma cara foi senhora de julgar as pessoas escolheute para si propria pois tens sido um homem que mostra nao sofrer sofrendo muito que aceita indiferente bens e males do destino abencoado quem revela tal mistura de sangue e julgamento e por isso jamais pode ser pifaro com que a fortuna se divirta mostrame o homem liberto das paixoes poloei no coracao no proprio coracao do coracao tal como o fiz contigo mas basta hoje ha espetaculo ante o rei com uma cena igual as circunstancias da morte de meu pai como eu te disse quando chegar essa passagem pecote que com todas as forcas de tua alma observes a meu tio se seu crime nao se manifestar ante um discurso e que era alma penada o que nos vimos e mais negras as minhas fantasias que a forja de vulcano observao bem hei de os olhos cravarlhe no semblante juntaremos depois nossos juizos para julgarlhe o aspecto
+horacio bem meu principe se algo ele surrupiar durante a cena e conseguir fugir pago o prejuizo
+hamlet ja vem chegando e urgente disfarcarmos vai para o teu lugar marcha dinamarquesa clarins entram o rei a rainha polonio ofelia rosencrantz guildenstern e outras pessoas
+
+o rei como vive o nosso primo hamlet
+hamlet otimamente na verdade da comida dos camaleoes alimentome de ar e entupome com promessas desse jeito nao podereis engordar capoes
+o rei nada tenho que ver com semelhante resposta hamlet essas palavras nao me dizem respeito
+hamlet e ja agora nem a mim tambem a polonio ja representastes uma vez na universidade nao mo dissestes
+polonio e certo principe e fui considerado bom ator
+hamlet e que representastes
+polonio julio cesar era assassinado no capitolio bruto me matava
+hamlet bem bruto era ele para matar um bezerro capital desse porte os atores estao prontos
+rosencrantz estao principe aguardam apenas vossas ordens
+a rainha vem para o meu lado querido hamlet sentate perto de mim
+
+hamlet naominhamaeoimadeste metal tem mais poder
+polonioaorei ohohobservastes bem
+hamlet senhorita poderei sentarme no vosso regaco sentase ao pe de ofelia
+ofelia nao principe
+hamlet quero dizer recostar a cabeca em vosso regaco
+ofelia sim principe
+hamlet pensastesqueeuestivesse usando linguagem do campo
+ofelia nao pensei nada principe
+hamlet bonitaideiadeitarseagente entre as pernas de uma donzela
+ofelia que ideia principe hamlet nada
+ofelia o principe esta hoje muito alegre hamlet quem eu
+ofelia o principe pois nao
+
+hamlet sou apenas vosso bobo que pode uma pessoa fazer de melhor a nao ser ficar alegre vede minha mae como apresenta semblante prazenteiro no entanto meu pai morreu apenas ha duas horas
+ofelia nao principe duas vezes dois meses
+hamlet ha tanto tempo assim entao que o diabo se cubra de luto que eu vou vestir me de zibelina oh ceus morto ha dois meses e ainda nao esquecido nesse caso ha esperanca de que a memoria de um grande homem lhe sobreviva meio ano por nossa senhora que trate de fundar igrejas ou ninguem pensara nele como se deu com o cavalo de pau cujo epitafio rezava pois oh pois oh o cavalo de pau ficou esquecido clarins entra a pantomima um rei e uma rainha com mostras de muito afeto a rainha abraca o rei e este a ela a rainha se ajoelha diante do rei e por meio de gestos lhe assegura submissao ele a faz erguerse e inclina a cabeca sobre seu ombro depois sentase sobre um banco de flores ao velo adormecido ela o deixa logo depois entra um individuo que lhe tira a coroa beijaa despeja veneno no ouvido do rei e sai volta a rainha e ao verificar que o rei morrera da mostras de grande magoa o envenenador volta com duas ou tres pessoas parecendo lamentarse com a rainha o corpo e
+
+removido o envenenador requesta a rainha com presentes a principio a rainha parece relutar mas acaba aceitando o seu amor saem
+ofelia que significa isso principe
+hamlet maroteira disfarcada significa infortunio
+ofelia sem duvida a pantomima serve de argumento a peca entra o prologo
+hamlet e o que vamos ver por este fregues os atores nao guardam segredo vereis como vao revelar tudo
+ofelia ira dizernos o que significam aqueles gestos
+hamlet nao so aqueles mas quantos quiserdes representarlhe se nao ficardes acanhada ele tambem nao o ficara para explicar lhes o sentido
+ofelia o principe e mau o principe e mau vou prestar atencao a peca
+o prologo para nos toda a indulgencia para a tragedia e demencia de vossa alta paciencia
+hamlet isso e prologo ou emblema de anel
+
+ofelia foi curto
+hamlet tal como o amor das mulheres
+o rei da peca trinta vezes ja o sol o giro ha feito por telus e netuno e com perfeito computo trinta vezes doze vezes a lua assinalou ao mundo os meses des que as maos himeneu e amor o afeto nos ligaram num vinculo concreto
+a rainha da peca que a luz e o sol nos deem iguais jornadas sem que as rosas do amor fiquem fanadas mas tao cansado te acho e tao mudado da alegria primeira certo o estado normal em ti que o susto ora se apossa de mim sem que isso alias turvarte possa pois o amor na mulher se casa ao medo ou grandes ate ao fim ou morrem cedo ja dei provas de ser no amor constante mas se o amor e tranquilo o medo e instante um grande amor nos sustos se confirma crescendo o medo o amor tambem se afirma
+o rei da peca muito cedo deixarte me e forcoso que me oprime a fraqueza no formoso mundo tens de viver sempre acatada porventura escolhida e muito amada por um segundo
+a rainha da peca basta basta um feito de tal negror me condenara o peito so se alegra com outro companheiro quem foi causa da morte do primeiro
+
+hamlet a parte isso e absinto
+a rainha da peca o interesse mesquinho nunca o amor do segundo consorcio e o causador fora o esposo matar do mesmo jeito a cada beijo do outro no seu leito
+o rei da peca sei que es sincera mas e bem frequente nao cumprirmos a jura mais ardente da memoria a intencao e simples serva forte ao nascer o tempo a nao conserva fruto que esta no galho por ser duro para cair por si quando maduro parece necessario que no olvido se atire o que a nos proprios e devido o que a paixao concebe de perfeito suprimida a paixao fica desfeito a violencia da dor ou da alegria com sua propria atuacao nao dura um dia onde o prazer se exalta a dor se encolhe um nada a dor extingue e o riso tolhe o mundo passa e natural portanto que com a fortuna o amor se altere tanto pois e problema que ainda esta sem norte se a sorte guia o amor ou o amor a sorte cai um dos grandes somemse os amigos sobe um pequeno adulamno inimigos dai ligarse o amor sempre a fortuna tem amigos quem nunca a outro importuna pois quem ao falso amigo pede vese de um imigo aumentado sem que o cresse mas para terminar pelo comeco entre a vontade e a sorte ha sempre empeco nossos planos sao frutos so do acaso a ideia e nossa os fins de
+
+cada caso nao digas que de novo nao te casas morto o esposo o proposito bate asas
+a rainha da peca que a luz o ceu me negue a terra o pao a noite a calma o dia distracao que a esperanca se mude em desespero penitencia no carcere e o que eu espero que quanto enturva o rosto da alegria se me antolhe a afligirme noite e dia repudiada seja eu por todo o povo se chegando a enviuvar casar de novo
+hamlet e se ela quebrar o juramento
+o rei da peca palavras bem solenes mas querida deixame sinto a fronte dolorida quero dormir adormece
+a rainha da peca repousa sossegado que nenhuma aflicao nos de cuidado sai
+hamlet quetalachaapecaminha senhora
+arainha parecemequeadamafaz protestos demasiados
+hamlet oh mas ela e de palavra
+o rei ouviste o argumento nao contem nenhuma ofensa
+
+hamlet nao nao e tudo por brinquedo envenenam por brinquedo e o que nao existe no mundo ofensa
+o rei como se intitula a peca
+hamlet "a ratoeira" mas ja se ve simples metafora a peca se baseia na historia de um crime ocorrido em viena gonzago e o nome do duque batista o da mulher ides ver dentro de pouco pura velhacaria mas que importa nem vossa majestade nem eu que temos a consciencia limpa somos atingidos os sendeiros que esperneiem nao estamos com o lombo pisado entra um ator no papel de luciano esse e um tal luciano sobrinho do rei
+ofelia o principe serve muito bom de coro
+hamlet poderia servir de ponto numa vossa conversa com o namorado se visse os movimentos dos titeres
+ofelia o principe esta muito afiado hoje muito afiado
+hamlet havia de custarvos gemidos embotarme o fio
+ofelia de bem para melhor de mal para pior
+
+hamlet os maridos sao desse jeito vamos assassino comeca logo deixa tua cara amaldicoada peste e principia de uma vez vamos o corvo em seu grasnar chama a vinganca
+luciano pensamentos escuros droga a jeito tempo oportuno maos para esse feito ninguem perto bebida desprezivel tres vezes a meianoite com a terrivel maldicao de hecate mexida neste corpo despeja os males que escondeste despeja veneno no ouvido do rei adormecido
+hamlet envenenao no jardim por causa do reino chamase gonzago a historia existe foi escrita em italiano primoroso vereis dentro de pouco como o assassino obtem o amor da mulher de gonzago
+ofelia o rei se levantou
+hamlet que e isso medo de um falso alarma de fogo
+a rainha como passa o meu senhor polonio suspendam a representacao
+o rei tragamme luzes vamosnos embora saem todos com excecao de hamlet e horacio
+
+hamlet que sangre o veado e ponhase a fugir enquanto descansa uns precisam velar outros dormir desta arte o mundo avanca uma cena como essa e mais uma floresta de penas se algum dia a fortuna se me tornar madrasta e um par de rosetas nos sapatos rasos nao me assegurariam um lugar em qualquer matilha de comediantes
+horacio com metade dos lucros como nao
+hamlet nada disso todo o lucro pois bem sabes damon que o proprio jove este reino desfez agora esta no trono um verdadeiro direi tudo um pavao
+horacio poderieis ter rimado
+hamlet meubomhoracioapostomil contra um na palavra do fantasma percebestes
+horacio perfeitamente principe hamlet na hora do veneno
+horacio com a maxima atencao
+hamlet ah ah venha musica tragam os fiajoles porque se a peca ao rei em nada agrada nao vale coisa alguma esta julgada vamos tragam musica entram rosencrantz e guildenstern
+
+guildenstern meu bom senhor concedeime uma palavra
+hamlet ate uma historia inteira guildenstern o rei senhor
+hamlet como vai ele passando
+guildenstern  recolheuse indisposto para seus aposentos
+hamlet de bebida
+guildenstern nao senhor de colera
+hamlet vossa sabedoria se revelaria mais opulenta se contasseis isso ao seu medico porque se eu lhe aplicar uma purga talvez lhe faca aumentar ainda mais a colera
+guildenstern ponde ordem meu bom senhor em vossas palavras sem vos desviardes tanto do proposito
+hamlet ja amansei podeis falar
+guildenstern a rainha vossa mae que se acha muito consternada mandou que vos procurasse
+hamlet pois sede bemvindo
+
+guildenstern essa cortesia nao vem a proposito principe se for de vosso agrado dar me uma resposta sadia desincumbirmeei do recado de vossa mae em caso contrario com vosso perdao e minha retirada darei por finda a missao a que vim
+hamlet nao me e possivel senhor
+guildenstern que e que vos e impossivel principe
+hamlet darvos uma resposta sadia meu espirito esta doente mas ponho a vossas ordens a resposta que me for possivel ou como o dissestes as ordens de minha mae por isso entremos logo no assunto minha mae ieis dizendo
+rosencrantz manda dizervos que vossa conduta lhe causou assombro e admiracao
+hamlet oh filho estupendo que chega a causar assombro a propria mae mas no calcanhar da admiracao da mae nao segue nenhuma consequencia vamos la
+rosencrantz deseja falarvos em seus aposentos antes de vos recolherdes
+hamlet obedeceria ainda que ela fosse dez vezes minha mae nao tendes nenhum outro assunto a tratar comigo
+
+rosencrantz houve tempo principe que me tinheis amizade
+hamlet ate hoje sou o mesmo juroo por estes gadanhos de ladrao
+rosencrantz meu bom senhor qual e o motivo de vossa alteracao pondes trancas em vossa liberdade negandovos a revelar a um amigo o motivo de vossa tristeza
+hamlet faltame ser promovido
+rosencrantz como e isso possivel se contais com a palavra do proprio rei de que o sucedereis no trono da dinamarca
+hamlet e certo mas "enquanto a grama cresce" o proverbio ja esta enferrujado entram alguns atores com flajoles oh flajoles deixame ver um falandovos em particular por que motivo me rodeais desse jeito a tomar o meu faro como se quisesseis levarme para alguma cilada
+guildenstern oh principe se o meu dever e ousado minha amizade e incivil
+hamlet nao atino bem com o sentido
+mas nao quereis tocar nesta flauta
+guildenstern nao posso principe
+
+hamlet por obsequio
+guildenstern acreditaime principe nao posso
+hamlet fazeime esse favor
+guildenstern nao conheco uma so posicao principe
+hamlet e tao facil quanto mentir com os quatro dedos e o polegar regulais estes orificios depois bastara soprar para que saia musica muito agradavel vede aqui estao as chaves
+guildenstern mas nao esta em mim tirar a menor harmonia principe nao possuo essa habilidade
+hamlet ora vede que coisa desprezivel fazeis de mim pretendieis que eu fosse um instrumento em que poderieis tocar a vontade por presumirdes que conhecieis minhas chaves tinheis a intencao de penetrar no coracao do meu segredo para experimentar toda a escala dos meus sentimentos da nota mais grave a mais aguda no entanto apesar de conter este instrumento bastante musica e de ser dotado de excelente voz nao conseguis fazelo falar com a breca imaginais entao que eu sou mais facil de tocar do que esta flauta daime o nome do instrumento que quiserdes conquanto voz seja
+
+facil escalavrarme jamais me fareis produzir som entra polonio deus vos guarde senhor
+polonio senhor a rainha deseja falarvos quanto antes
+hamlet estais vendo aquela nuvem em forma de camelo
+polonio pela santa missa parece de fato um camelo
+hamlet creio que parece mais uma doninha
+polonio e certo o dorso e de doninha hamlet ou uma baleia
+polonio uma baleia realmente muito semelhante
+hamlet bem se assim e irei ter com minha mae neste momento a parte esta gente brinca de doido comigo ao ponto de arrebentar me a paciencia alto irei neste momento
+polonio dirlheei isso mesmo sai hamlet neste momento e facil de dizer
+deixaime amigos saem todos menos hamlet estamos na hora tetrica da noite em que se abrem os tumulos e o inferno lanca no mundo a
+peste  poderia  beber  neste  momento  sangue
+
+quente e realizar tais coisas que fariam tremer o proprio dia mas silencio procuremos agora minha mae coracao nao te esqueca o de quem es que neste peito firme jamais entre a alma de nero rispido mas nunca desnaturado espadas so na lingua sem que delas me valha que se irmanem na hipocrisia a lingua e o coracao se a palavra sair demais pesada minha alma nao lhe des forma adequada sai
+
+cena iii
+
+um quarto no castelo entram o rei rosencrantz e guildenstern
+
+
+o rei nao me agrada alem disso constitui perigo para nos deixar sem peias sua loucura assim ide aprontarvos que vossas instrucoes mandarei logo e ele para a inglaterra ira convosco nossa real dignidade nao comporta os riscos que a toda hora seus caprichos fazem nascer
+guildenstern iremos aprontarnos o medo religioso e santo cuida da salvacao de tantas existencias que se nutrem de vossa majestade
+rosencrantz a propria vida singular precisa com toda a forca e as armas do intelecto defenderse de danos que dizerse da alma de que depende sempre a vida de tanta gente nunca a majestade morre sozinha qual voragem chupa quanto esta perto e roda gigantesca que nos raios contem dez mil coisinhas encaixadas e cuja queda implica a ruina fragorosa das menores
+
+pecasqueselheprendemogemidodorei sempre e geral sempre e alarido
+o rei peco vos apresseis para a viagem queremos por grilhetas nesse medo que passeia tao livre
+rosencrantz e guildenstern ja nos
+vamos saem rosencrantz e guildenstern entra polonio
+polonio ele ja foi senhor para o aposento da rainha por tras do reposteiro vou porme a ouvilos e certeza ela ha de repreende lo e conforme sabiamente dissestes e preciso que outro ouvido que nao o materno pois a natureza felo parcial escute o que falarem passai bem meu senhor chamarvosei antes de vos deitardes para darvos conta do que souber
+o rei muito obrigado sai polonio esta podre o meu crime o ceu ja o sente a maldicao primeira poslhe o estigma fratricida rezar nao me e possivel muito embora o pendor siga a vontade a culpa imana vence o belo intento tal como alguem que empreende dois negocios ao mesmo tempo mostrome indeciso sobre qual inicie acontecendo vir ambos a perder se esta maldita mao de sangue fraterno se cobrisse nao haveria chuva suficiente no ceu para deixala como a neve para que serve a graca se nao serve  para  enfrentar  o  rosto  do  pecado  e  a
+
+oracao nao contem dupla virtude de prevenir a queda e obter completo perdao para os que caem alco os olhos meu crime ja passou mas que modelo de oracao servira para o meu caso "perdoaime o crime monstruoso e horrendo" nao pode ser que me acho ainda de posse de quanto me levou a praticalo o trono meus anelos e a rainha perdao alcanca quem retem o furto nos processos corruptos deste mundo pode a justica ser desviada pela mao dourada do crime e muitas vezes o premio compra a lei mas nao la em cima onde nao valem manhas o processo nao padece artificios e ate mesmo nos dentes e na fronte do delito teremos de depor que ainda me resta tentar o que o arrependimento pode oh como e poderoso mas que pode fazer com quem nao sabe arrepender se terrivel situacao o peito mais escuro do que a morte o alma viscosa quanto mais te esforcas mais te sentes enleada anjos socorro dobrate joelho altivo coracao de aco fica tao brando quanto os musculos de um recemnato tudo talvez volte a ser como era afastase e ajoelha entra hamlet
+hamlet e propicia a ocasiao achase orando vou fazelo desta arte alcanca o ceu e assim me vingaria em outros termos mata um biltre a meu pai e eu seu filho unico despacho esse mesmissimo velhaco para o ceu e soldo e recompensa nao vinganca assassinou meu pai
+
+quando este estava pesado de alimentos com seus crimes floridos como maio o ceu somente sabera qual o estado de suas contas mas de acordo com nossas presuncoes nao sera bom direi que estou vingado se o matar quando tem a alma expungida e apta para fazer a grande viagem nao aguarda espada um golpe mais terrivel no sono da embriaguez ou em plena colera nos prazeres do talamo incestuoso no jogo ao blasfemar ou em qualquer ato que o arraste a perdicao nessa hora atacao que para o ceu vire ele os calcanhares quando a alma estiver negra como o inferno que e o seu destino esperame a rainha prolongate a doenca esta mezinha sai o rei se levanta e adiantase
+orei osomseevolaopensamento cansa um sem o outro jamais o ceu alcanca sai
+
+cena iv
+
+aposento da rainha entram a rainha e polonio
+
+
+polonio ele ai vem repreendeio asperamente mostrai que se excedeu nas brincadeiras e como se interpos vossa grandeza entre ele e a grande colera mais nada somente vos reitero sede rispida
+hamlet dentro mae mae
+a rainha podeis ficar tranquilo retirai vos esta ele chegando polonio se esconde atras do reposteiro entra hamlet
+hamlet entao mae que ha de novo
+a rainha grande ofensa a teu pai fizeste hamlet
+hamlet grande ofensa a meu pai fizeste mae
+a rainha devagar respondeis com lingua ociosa
+
+hamlet vamos que me falais com lingua ociosa
+a rainha que e isso hamlet hamlet que ha de novo agora a rainha esquecestes quem sou
+hamlet nao pela cruz nao me esqueci sei bem que sois a rainha casada com o irmao de vosso esposo e prouvera o contrario minha mae
+a rainha vou chamar quem convosco falar possa
+hamlet vamos sentaivos nao saireis enquanto nao vos apresentar eu um espelho que o recondito da alma vos reflita
+a rainha que pretendes fazer nao vais matarme socorro socorro
+polonio atras que e que ha socorro
+socorro
+hamlet desembainhando a espada que e isso um rato dando uma estocada no reposteiro aposto que o matei
+polonio atras estou morto
+a rainha santo deus que fizeste
+
+hamlet ignoroo nao era o rei
+a rainha que acao precipitada e sanguinaria
+hamlet acao precipitada e sanguinaria tao ruim boa mae quanto matar um rei e desposar o irmao do morto
+a rainha matar um rei
+hamlet um rei foi o que eu disse levanta o reposteiro e descobre o corpo de polonio adeus bobo apressado e intrometido julguei que era o teu chefe e o teu destino ves que o ser servical traz seus perigos nao torcais tanto as maos sentaivos quero lutar com vosso coracao no caso de ser ele amolgavel se o maldito costume o nao deixou duro como o aco tornandoo resistente a persuasao
+a rainha que fiz eu para usares de linguagem tao grosseira
+hamlet uma acao que mancha a graca e o rubor da modestia que a virtude transforma em falsidade muda as rosas da fronte prazenteira do amor puro em chaga repugnante e os juramentos dos conjuges em pragas de viciados uma acao que do corpo dos contratos tira a propria alma e muda em palavrorio a doce religiao a propria face do ceu cora de pejo sim o mundo compacto nas
+
+feicoesmostraatristezadojuizofinaldiante desse ato
+a rainha ai que acao tao monstruosa que troveja estrondeando com o simples enunciado
+hamlet mirai este retrato e mais este outro que dois irmaos fielmente representam vede a graca que encima esta cabeca cachos de apolo a fronte alta de jupiter o olhar de marte ao mando e a ameaca afeito o porte de mercurio o mensageiro quando pousa nos cumes altanados uma forma em resumo perfeitissima em que os deuses seus selos imprimiram para que o mundo visse o que era um homem esse foi vosso esposo agora o resto eis vosso esposo espiga definhada que o irmao sadio empesta tendes olhos deixastes a pastagem deste belo monte por um pau ah tendes olhos nao chameis a isso amor que em vossa idade o sangue se arrefece fica humilde e obedece a razao e que razao passa deste para este sois sensivel pois vos moveis mas tendes os sentidos paralisados a loucura acerta nunca os sentidos ficam subjugados pela paixao a ponto de falharem totalmente na escolha que demonio vos logrou de uma vez na cabracega o olho sem tato o tato sem visao o ouvido so por si o olfato apenas a menor parte em suma de um sentido verdadeiro  jamais  se  estontearia  desse  feitio
+
+pudor por que nao coras se nos ossos de uma matrona inferno te rebelas que a continencia fique para os mocos ardentes como a cera que amolece no proprio fogo nem de mancha fales quando no ataque se atirar o instinto uma vez que e tao quente a propria geada e a razao e alcoveta da vontade
+a rainha nao fales mais hamlet a olhar me forcas no mais intimo da alma onde acho manchas profundas e tao negras que nao perdem jamais a cor
+hamlet viver num leito infecto que tresanda a fartum onde fervilha a podridao juntandose em caricias num chiqueiro asqueroso
+a rainha oh nao prossigas apunhalam me o ouvido essas palavras basta querido hamlet
+hamlet um assassino um vil escravo que nao e um vigesimo do outro marido um rei bufao um simples gatuno do governo desta terra que a coroa empalmou da prateleira e a pos no bolso
+a rainha basta
+hamlet um reipalhaco em trajes de mendigo  entra  o  fantasma  estendei  sobre
+
+mimlegioescelestesasasasprotetorasque deseja vossa imagem graciosa
+a rainha ai de mim esta louco
+hamlet nao viestes censurar o filho tardo que deixa a ira assentar e tao remisso se mostra no cumprir vossos preceitos oh dizei
+o fantasma nao te esquecas minha vinda so visa a estimularte o intento rombo mas ve que em tua mae se assenta o espanto corre a interporte entre ela e a sua alma em luta que nas pessoas fracas e terrivel o estrago da ilusao falalhe hamlet
+hamlet senhora que sentis
+a rainha que se passa contigo que os olhos assim pousas no vazio e com o ar incorporeo deblateras como se te ilumina a alma nos olhos e tais como soldados quando o alarma vem tiralos do sono teus cabelos parecendo com vida se desmancham se curicam na tua fronte o meu bom filho lanca a fria paciencia sobre as chamas e o fogo do teu mal mas para onde olhas
+hamlet para ele sim quao palido nos fixa seu destino e sua forma se influissem nas pedras racionais as tornariam tirai de mim os olhos   para   que   esse   gesto   piedoso   nao
+
+transmude minhas asperas intencoes pois o que tenho para fazer exige cores vivas necessito de sangue em vez de lagrimas
+a rainha para quem falas isso hamlet ninguem vedes
+a rainha ninguem no entanto vejo o que nos cerca
+hamlet e nada ouviste
+a rainha nada a nos somente
+hamlet vede ali vede ja se afasta meu pai tal como em vida se vestia acaba vedeo de transpor a porta sai o fantasma
+a rainha isso e fruto somente de teu cerebro e sempre muito fertil o delirio no inventar essas coisas
+hamlet delirio meu pulso como o vosso e compassado toca musica sa nao foi loucura quanto falei pondeme a prova posso dizer tudo de novo um desvairado divagaria mae por vossa graca nao lisonjeeis vossa alma acreditando que ouvis um louco e nao vosso delito a ulcera externa assim se fecharia enquanto a corrupcao minara tudo por dentro sem ser vista ao ceu volveivos mostraivos do passado arrependida evitai o futuro sem que o joio adubeis e lhe deis
+
+assim mais vico perdoaime esta virtude que nesta epoca bem cevada e de folego cortado necessita a virtude rebaixarse ao proprio vicio e apresentarlhe escusas por tudo o que de bem possa fazerlhe
+rainha hamlet o coracao em dois me partes
+hamlet jogai fora a metade que nao presta para com a outra parte serdes pura boa noite mas evitai a cama do meu tio fazeivos de virtuosa se o nao fordes o habito esse demonio que devora todos os sentimentos nisso e um anjo pois para o uso de acoes boas e belas empresta vestimenta ou capa externa que lhes vao bem abstendevos por hoje que isso ha de conferir facilidade a proxima abstinencia a outra mais facil vos ha de parecer que o uso consegue quase modificar a natureza dominar o demonio e ate expelilo com poder prodigioso uma vez mais boa noite hei de pedir a vossa bencao quando dela tambem necessitardes enquanto a este homem fazme pena quilo desta arte o ceu punir a mim por ele e a ele por mim fui servo a um tempo e acoite vou cuidar dele fico responsavel por esta morte e ainda uma vez boa noite preciso ser cruel para ser bom o ruim comeca o pior ja se acha feito uma palavra mais senhora
+
+a rainha que e preciso que eu faca
+hamlet nada do que vos disse neste instante que outra vez para o leito o rei balofo vos conduza e no rosto vos belisque vos chame de ratinha e que dois beijos infectos e caricias com as maos grossas em vossas costas pronto vos induzam a revelarlhe que estou bom do juizo mas que finjo loucura dizeilhe isso que rainha sensata bela e honesta esconderia coisas tao preciosas de um sapo de um morcego e concebivel apesar do bom senso abri a gaiola no telhado e deixai fugir o passaro depois como o macaco conhecido entrai nela e fazei logo a experiencia para em baixo partirdes o pescoco
+a rainha fica tranquilo se o falar consiste em respirar e o folego for vida nao terei vida alguma que respire quanto me revelaste
+hamlet parto para a inglaterra ja o sabieis
+a rainha ai que o esquecera assim ficou assentado
+hamlet selaram cartas meus dois companheiros de escola em quem me fio como em dentes de vibora se encontram com a incumbencia de aplanarme o caminho e conduzirme direto ao cativeiro pois trabalhem ha de ser engracado ver a bomba fazer saltar o
+
+autor por mais dificil que seja hei de cavar mais fundo ainda para jogalos no alto como e belo ver a astucia vencer a propria astucia este homem me ajudou a fazer as malas vou por no quarto anexo esta barriga boa noite mae realmente o conselheiro que era tao falador esta sisudo quietinho bem discreto grave e mudo vamos senhor dar fim a este negocio boa noite mae saem por lados diferentes arrastando hamlet o corpo de polonio
+
+ato iv
+cena i
+
+um quarto no castelo entram o rei a rainha rosencrantz e guildenstern
+
+
+o rei devem ter uma causa esses suspiros contama desejamos conhecela onde se acha teu filho
+a rainha a rosencrantz e guildenstern deixainos ficar sos por um momento saem rosencrantz e guildenstern caro esposo que coisa eu vi esta noite
+o rei que foi gertrudes como achaste hamlet
+a rainha tao louco quanto o mar e o vento quando lutam pelo primado em seu desvairo vendo atras da cortina algo mexerse saca da espada e grita um rato um rato para matar no acume do delirio o bom velho que estava ali escondido
+
+o rei que triste coisa o mesmo nos tocara se estivessemos la sua liberdade implica para todos grande ameaca para ti para nos para qualquer como explicar esse ato sanguinario hao de culparnos por nao termos tido a ideia de prender o desvairado moco para evitar possiveis males mas nosso amor nao permitiu sabermos o que quisesse ocultar um mal imundo so fizemos deixar que nos corroesse a medula vital aonde foi ele
+a rainha foi sepultar o corpo de polonio de quem tirou a vida e nisso a insania como grao de ouro em meio a ganga impura se manifesta estreme chora a morte que ele mesmo causou
+o rei o gertrudes saiamos o sol nao beijara de novo os montes sem que a hamlet embarquemos no que toca a esta acao vil teremos de aceitala justificandoa a custa de artificios e de nossa grandeza o guildenstern voltam rosencrantz e guildenstern amigos procurai quem vos ajude hamlet a delirar matou polonio tendo o corpo tirado do aposento da rainha falailhe com bem jeito e ponde na capela o pobre morto muita pressa vos peco nisso tudo saem rosencrantz e guildenstern convoquemos gertrudes os amigos para participarlhes nosso intento e o ato precipitado e  bem  possivel  que  desta  arte  a  calunia  que
+
+sussurra tao certeira de um polo ate outro polo quanto a bala que no alvo o canhao joga nos poupe o nome e acoite apenas o ar sem mais prejuizo vamonos minha alma em discordia e terror nao se acha calma saem
+
+cena ii
+
+outro quarto no castelo entra hamlet
+
+hamlet esta em lugar seguro rosencrantzeguildenstern 
+hamlet lorde hamlet
+hamlet que barulho e esse quem chama por hamlet oh eilos que chegam entram rosencrantz e guildenstern
+rosencrantz onde o corpo pusestes lorde hamlet
+hamlet associeio ao po de que e parente
+rosencrantz dizeinos onde esta porque possamos depolo na capela
+hamlet nao deis credito a semelhante coisa
+rosencrantz a que meu principe
+
+hamlet que eu possa guardar o vosso segredo e nao o meu alem do mais ser interrogado por uma esponja que podera responderlhe um filho de rei
+rosencrantz tomaisme por uma esponja principe
+hamlet sim senhor que chupa os favores as recompensas e a autoridade reais alias semelhantes cortesaos prestam otimo servico ao rei que procede com eles como o macaco conservandoos por algum tempo no canto da boca antes de engolilos quando tem necessidade do que acumulastes basta espremervos para que esponjas fiqueis novamente enxutos
+rosencrantz nao compreendo o que dizeis senhor
+hamlet o que muito me alegra as sutilezas dormem no ouvido dos parvos
+rosencrantz principe dizeinos onde esta o corpo e acompanhainos a presenca do rei
+hamlet o corpo esta com o rei mas o rei nao esta com o corpo o rei e uma coisa
+guildenstern uma coisa principe
+
+hamlet de nada levaime a sua presenca escondete raposa um atras do outro saem
+
+cena iii
+
+outro quarto no castelo entram o rei e criados
+
+o rei mandei chamalo e procurar o corpo que perigo deixar a esse homem solto contudo eme impossivel ser severo porque ele e amado pela turba nescia que escolhe taosomente pela vista importa nessas condicoes apenas pensar na repressao jamais na culpa para evitar desgostos e preciso que esta viagem pareca ser produto de reflexao madura para males desesperados so remedio energico ou nenhum entra rosencrantz como entao que aconteceu
+rosencrantz nao conseguimos que ele nos dissesse o lugar onde o corpo esta enterrado
+o rei e ele onde se acha
+rosencrantz ai fora majestade bem guardado esperando vossas ordens
+o rei pois a nossa presenca o conduzi
+rosencrantz o guildenstern traze lorde hamlet entram hamlet e guildenstern
+
+o rei entao hamlet onde esta polonio hamlet esta ceando
+o rei ceando onde
+hamlet nao onde ele come mas onde e comido certa assembleia de vermes politicos se ocupa justamente dele um verme desse genero e o verdadeiro imperador da dieta engordamos as criaturas para que nos engordem e engordamo nos para dar de comer aos gusanos um rei gordo e um mendigo magro sao iguanas diferentes dois pratos mas para a mesma mesa eis tudo
+o rei oh deus
+hamlet podese pescar com um verme que haja comido de um rei e comer o peixe que se alimentou desse verme
+o rei que queres dizer com isso
+hamlet nada apenas mostrarvos como um rei pode fazer um passeio pelos intestinos de um mendigo
+o rei onde esta polonio
+hamlet no ceu mandai procuralo la e se o mensageiro nao o encontrar procurai vos mesmo em outra parte mas se dentro de um mes  ainda  nao  o  tiverdes  achado  havereis  de
+
+descobrilo pelo olfato quando subirdes a escada da galeria
+o rei a alguns criados procuremno nesse lugar
+hamlet ele espera ate que chegueis saem os criados
+o rei hamlet para tua seguranca que tao cara nos e quao doloroso o ato que praticaste e necessario que te ausentes daqui vai preparar te o navio esta pronto o vento a jeito a espera os companheiros tudo para a inglaterra
+hamlet inglaterra o rei sim hamlet hamlet bem
+o rei bem de fato dirias se soubesses dos nossos planos todos
+hamlet vejo um querubim que os ve partamos pois para a inglaterra adeus querida mae
+o rei e teu pai afetuoso hamlet
+hamlet minha mae pai e mae sao marido e mulher marido e mulher uma e a mesma carne logo minha mae vamos para a inglaterra sai
+
+o rei levaio para bordo sem detenca e mister que esta noite esteja longe ide quanto respeita a este negocio ja esta selado e pronto ide depressa saem rosencrantz e guildenstern se prezas inglaterra nossa alianca visto teres sentido minha forca que as cicatrizes ainda se acham frescas dos golpes infligidos pela espada dinamarquesa e preito voluntario nos renderes nao deves demorarte no cumprir nossas ordens soberanas exaradas nas cartas e que exigem que hamlet morra isso inglaterra faze que ele o sangue me queima tal qual a hetica urge livrar me deste mal realmente ele vivo nao posso estar contente sai
+
+cena iv
+
+uma planicie na dinamarca entram fortimbras um capitao e soldados em marcha
+
+
+fortimbras saudai de minha parte a dinamarca acrescentando que com sua licenca fortimbras pede franco e livre transito por seu reino sabeis onde devemos encontrarnos se sua majestade quiser falarnos algo em sua presenca presto estaremos dailhe esse recado
+o capitao assim farei senhor fortimbras emfrentedevagar
+fortimbras e os soldados saem entram hamlet rosencrantz guildenstern e outros
+hamlet amigo de quem sao esses soldados
+o capitao da noruega senhor
+hamlet por obsequio qual e o seu destino
+
+ocapitao combaterumaparteda polonia
+hamlet quem e o comandante
+ocapitao fortimbrasosobrinhode noruega
+hamlet visamtodaapoloniaou porventura um ponto da fronteira
+o capitao para falar verdade sem acrescimo vamos lutar por uma nesgazinha que outro lucro nao deixa alem da gloria cinco ducados cinco eu nao daria para arrendala nem mais obteriam a noruega e a polonia se a vendessem
+hamlet nesse caso o polaco a nao defende
+o capitao como nao ja se encontra guarnecida
+hamlet duas mil almas vinte ducados nao perfazem o preco dessa palha e o apostema da paz e da riqueza que rompe para dentro sem que nada por fora a morte inculque muito grato
+o capitao que deus vos acompanhe sai
+rosencrantz continuamos o caminho
+
+hamlet segui ja vos alcanco saem todos com excecao de hamlet como tudo me acusa espicacandome a vinganca que e o homem se sua maxima ocupacao e o bem maior nao passam de comer e dormir um simples bruto decerto quem nos criou com a faculdade que ao passado e ao futuro nos transporta nao nos deu a razao divina para que fique inutil seja esquecimento bestial ou mesmo escrupulo covarde que me leva a pensar demais nas coisas
+  pensamento com um quarto de bom senso e
+tres de covardia ignoro a causa de ficar a dizer "devo fazelo" se para tal me sobram meios forca causa e disposicao exemplos grandes como a terra me exortam este exercito de tal poder e numero chefiado por um principe moco e delicado cuja coragem a ambicao divina faz exaltar levandoo a defrontarse com os fatos invisiveis e a sua parte mortal e pouco firme a por em risco contra o que ousa a fortuna o acaso e a morte por uma casca de ovo o ser de fato grande nao e empenharse em grandes causas grande e quem luta ate por uma palha quando a honra esta em jogo e eu deste modo com o pai assassinado a mae poluida razoes de estimular o sangue e o brio nada me esperta vejo envergonhado vinte mil homens proximos da morte que por simples capricho da vaidade caminham para o tumulo tal como se fossem para o leito e lutam pela conquista de um terreno em
+
+que nao cabem e que como sepulcro ainda e pequeno para esconder sequer os que ai tombarem doravante terei so pensamentos de sangue ou sem valor soltos aos ventos sai
+
+cena v
+
+elsinor um quarto no castelo entram a rainha horacio e um nobre
+
+a rainha nao quero falar a ela
+o nobre de fato ela e importuna no desvario compungem os seus modos
+a rainha que a preocupa
+o nobre fala muito no pai diz ter sabido que o mundo e mau bate no peito e geme zangandose por nada diz palavras dubias e sem sentido nada em suma conquanto esse seu modo leve o ouvinte a tirar conclusoes interpretandolhe as palavras ao jeito do que pensam concluindo de seus gestos da maneira de piscar dos meneios da cabeca que algo querem dizer ainda que sejam suposicoes tudo desgraca inculca
+a rainha seria bom falarlhe que ela pode suscitar conjeturas dos maldosos fazeia entrar  sai o nobre  para  a  alma  criminosa  e
+
+feperjura tudo anuncia alguma desventura tanto se agita o crime em tal enredo que a si mesmo se trai de puro medo volta o nobre com ofelia
+ofelia onde se encontra a bela majestade da dinamarca
+a rainha que ha de novo ofelia
+ofelia canta como reconhecer em meio a turba o jovem meu amado pelo chapeu de conchas as sandalias e mais pelo cajado
+a rainha minha doce menina a que vem isso
+ofelia que dizeis escutais vos peco agora canta senhora ele se foi nao mais existe morreu nada mais ousa a cabeca lhe nasce um tufo de erva sobre o corpo uma lousa oh oh
+a rainha querida ofelia escuta
+ofelia por favor escutai canta como um monte de neve era a mortalha entra o rei enfeitada de flor orvalhada baixou para o sepulcro pelo pranto do amor
+o rei como vai passando gentil menina
+
+ofelia bem gracas a deus dizem que a coruja era filha de um padeiro sabemos senhor o que somos mas nao o que viremos a ser deus assista na vossa mesa
+o rei alusao ao pai
+ofelia por favor nao falemos mais disso mas se vos perguntarem o que significa dizei lhes canta raiou o dia de sao valentim de pe todos estao para ser vossa valentina irei porme a janela entao ela se alca depressa a roupa veste e a porta lhe franqueou fazendo entrar a virgem que assim virgem nao mais ali passou
+o rei meiga ofelia
+ofelia realmente vou concluir sem nenhum juramento canta pela virgem e a santa caridade que vergonha meu deus os mocos o farao se ai se encontrarem vergonha para os seus antes de ao chao tu me jogares tinhas prometido casar faloia respondeu caso ao meu leito nao quisesses entrar
+o rei ha quanto tempo esta ela assim ofelia   espero  que  tudo  corra  bem
+precisamos de paciencia conquanto nao possa deixar de chorar ao pensamento de que vao depolo no chao frio meu irmao ha de ficar sabendo  disso  muito  obrigada  pelo  conselho
+
+amigo que venha o meu carro boa noite senhoras boa noite encantadoras senhoras boa noite boa noite sai
+o rei idelhe em pos vigiaia com cuidado sai horacio dor profunda a envenena provem tudo do traspasso do pai cara gertrudes as tristezas nao andam como espias mas sempre em batalhoes primeiro a morte do pai depois a ausencia de teu filho causador de seu proprio banimento o povo alvorocado crasso e impuro conjetura em cochichos sobre a morte do bom polonio foi inexperiencia sepultalo as ocultas ora ofelia solitaria de si e do proprio juizo sem o qual somos brutos ou pinturas por ultimo o que vale mais que tudo seu irmao que voltou secretamente anda cheio de pasmo vai as nuvens sem que os murmuradores lhe falecam com ditos pestilentos sobre a causa da morte do pai dele sem falarmos que a propria confusao nao conhecendo como as coisas realmente se passaram nao deixara de envenenarme o nome de ouvido para ouvido o minha cara gertrudes isso tudo como peca mortifera disposta em varias partes morte sobeja ora vai darme ouvese barulho
+a rainha que houve entra um nobre
+o rei onde estao meus suicos que defendam as portas que ha de novo
+
+o nobre majestade fugi o oceano quando rompe os diques nao devora a planicie com mais impeto do que laertes a testa dos rebeldes vence a tropa legal o populacho lhe chama lorde e tal como se o mundo fosse recomecar sem que mais lembrem tradicoes esquecidos os costumes sustentaculos firmes das palavras grita elejamos rei seja laertes as linguas e os chapeus as maos o aplaudem ate as nuvens laertes nosso rei
+a rainha como ladram joviais na pista falsa errastes falsos caes dinamarqueses
+o rei arrombaram as portas ouvese barulho entra laertes armado seguido de dinamarqueses
+laertes onde esta o rei senhores ficai fora
+dinamarqueses nao entremos laertes suplicovos deixainos dinamarqueses poisnaopoisnao
+afastamse para tras da porta
+laertes obrigado guardai todas as portas rei desprezivel daime o meu bom pai
+o rei calma meu bom laertes
+
+laertes a gota de meu sangue que ficasse calma me insultaria de bastardo mancharia meu pai lancando a pecha de meretriz na fronte imaculada de minha santa mae
+o rei qual e o motivo laertes de assumir ares gigantes essa rebeliao deixao gertrudes nada temas por nos de tal maneira o carater divino ao rei protege que a traicao mal espreita o que almejara sem nada conseguir dizei laertes o que vos pos assim gertrudes deixao falai jovem
+laertes meu pai que e dele o rei morto
+a rainha mas nao por ele o rei deixa que me fale
+laertes como morreu nao quero ser ludibrio de ninguem para o inferno os juramentos fidelidade os diabos a carreguem consciencia e graca o abismo as sorva logo venha a condenacao chego ate ao ponto de arriscar esta vida e a porvindoira sem medir consequencias taosomente para a meu pai vingar
+o rei que vos detem
+
+laertes afora o meu querer nem todo o mundo quanto aos recursos hei de encontrar jeito de obter muito com pouco
+o rei ouvi laertes se desejais de fato saber como vosso pai faleceu achase escrito nos vossos planos que deveis num lance sem distincao de amigos e inimigos arrastar os culpados e inocentes
+laertes nao so seus inimigos o rei desejais conhecelos
+laertes a quantos se mostrarem seus amigos os bracos tenho abertos e como o pelicano com meu sangue lhes darei vida e alento
+o rei essas palavras sao de bom filho e bravo gentilhomem minha inocencia relativa a morte de vosso pai e a magoa de perdelo hao de ao juizo tao claro aparecervos como aos olhos a luz
+dinamarqueses dentro deixaia entrar
+laertes que significa esse barulho entra ofelia febre secame o cerebro corroei me lagrimas sete vezes salgadas a virtude dos olhos pelo ceu tua loucura sera pesada ate que desca o prato da balanca rosa de maio irma
+
+doce menina querida ofelia o ceu e entao possivel que a razao de uma jovem seja fragil como o alento de um velho a natureza se depura no amor e florescendo empresta a coisa amada algo da essencia preciosa de si mesma
+ofelia canta levaramno a enterrar sem cobertura trala lara quanto choro lhe rega a sepultura adeus pombinho
+laertes se com toda a razao me concitasses a vingarte nem tanto me abalaras
+ofelia deverieis cantar "abaixo abaixo chamaio para baixo" oh como a roda lhe vai bem e da cancao do intendente falso que raptou a filha do amo
+laertes este nada vale mais do que tudo
+ofelia aqui esta rosmaninho para lembranca nao te esquecas de mim querido estes amoresperfeitos sao para o pensamento
+laertes uma sentenca na loucura a lembranca e o pensamento harmonizados
+ofelia para vos funcho e aquileia arruda para vos e um pouco para mim tambem poderemos chamarlhe erva da graca dos domingos mas a vossa devera ser usada de outro jeito eis aqui uma margarida quisera darvos
+
+algumas violetas mas murcharam todas quando meu pai morreu dizem que ele teve um fim muito bonito canta para o doce pintarroxo e toda minha alegria
+laertes a tristeza a paixao ao proprio inferno a tudo ela da graca e empresta encanto
+ofelia canta nunca mais o veremos nao mais retornara sumiu deste mundo baixai para o fundo que ele nao voltara barba branca de neve de linho a cabeleira ja foi sem parar e inutil chorar que no ceu deus o queira e a todas as almas cristas e o que eu rogo a deus deus seja convosco sai
+laertes vedes isto o deus
+o rei de vossa magoa laertes compartilho e meu direito agora retiraivos por uns momentos e os mais ajuizados amigos escolhei porque nos oucam para entre mim e vos serem juizes se achardes culpa em nos mediata embora sera vossa a coroa nosso reino a propria vida e tudo quanto e nosso como satisfacao no caso oposto contentaivos de ouvirnos com paciencia que a vossa alma associados cuidaremos de ressarcirlhe a dor
+laertes seja a maneira por que morreu o enterro misterioso sem brasao nem espada sobre o tumulo a ausencia do ritual e pompas
+
+funebres clamam como atroando o ceu e a terra pedindo explicacoes
+o rei servosao dadas e onde houver culpa caia a machadinha vinde comigo peco vos saem
+
+cena vi
+
+outro quarto no castelo entram horacio e um criado
+
+horacio quem quer falar comigo
+o criado marinheiros senhor sao portadores de umas cartas
+horacio que entrem pois sai o criado tirando lorde hamlet em todo o mundo nao sei quem poderia enviarme cartas entra um marinheiro
+marinheiro deus vos abencoe senhor horacio e a ti tambem
+marinheiro assim o fara senhor se for de sua vontade esta carta senhor e para vos vem da parte do embaixador que deveria ir para a inglaterra se vos chamardes horacio como me afirmaram
+horacio le "horacio quando passares os olhos por esta proporciona a esses homens
+
+meios de chegarem ate ao rei sao portadores de cartas para ele tambem nao havia ainda dois dias que nos encontravamos no mar quando nos deu caca um corsario de grande aparelhagem belica a morosidade das velas nos tornou valentes a forca havendo eu saltado para a tolda do inimigo logo que o abordamos no mesmo instante conseguiram desvencilharse de nosso navio ficando eu como unico prisioneiro procedem comigo como ladroes misericordiosos mas eles sabem o que fazem pois esperam tirar de mim grande proveito faze chegar ao rei as cartas que lhe envio e vem ter comigo com a pressa que empregarias em fugir da morte tenho a dizerte ao ouvido palavras que te deixarao mudo muito embora ainda sejam leves demais para o calibre do assunto essa boa gente ha de informarte onde me encontro rosencrantz e guildenstern continuam a caminho da inglaterra tenho muito que contarte a respeito deles aquele que conheces como te pertencendo hamlet" vinde comigo vou facilitarvos a entrega dessas cartas porque logo me leveis a pessoa que as enviou saem
+
+cena vii
+
+outro quarto no castelo entram o rei e laertes
+
+o rei vossa consciencia agora me confirma quitacao mais que plena podeis mesmo ao peito aconchegarme como amigo pois ja sabeis de ouvir de ciencia certa que quem matou a vosso nobre pai tambem me quis matar
+laertes e o que parece mas por que nao punistes esses atos de si tao criminosos como a vossa dignidade o obrigava a seguranca tudo em suma
+o rei oh sao duas as razoes que talvez vos parecam despiciendas mas que pesam sua mae vive somente de seus olhares quanto ao que me toca seja virtude ou doenca pouco monta
+  de alma e corpo me sinto a ela tao preso que assim como nao sai da orbita a estrela sem ela me nao mexo o outro motivo que me impede de com ele justar contas e o grande amor que lhe devota a plebe que na afeicao banhando seus defeitos como as fontes que o lenho em pedra mudam  de  ferros  faz  reliquias  minhas  setas
+
+talhadas em madeira muito leve para tao forte vento voltariam para o arco sem que no alvo se encravassem
+laertes e assim perdi meu nobre pai e vejo caida na demencia minha irma cujo valor se e licito falarse do que ja foi nenhum outro acharia que pudesse igualalo em perfeicao mas espero vingarme
+o rei vosso sono nao perturbeis com semelhante ideia nem penseis porventura que sejamos composto de materia tao grosseira que deixemos puxarnos pela barba com violencia e ainda achemos que e brinquedo breve ouvireis o resto era afeicoado a vosso pai amamos a nos mesmos por isso espero que havereis de em breve entra um mensageiro que ha de novo
+mensageiro senhor cartas de hamlet para a rainha e vossa majestade
+o rei de hamlet quem as trouxe mensageiro marinheirossenhor
+segundo dizem nao lhes falei foi claudio quem mas deu a este e que o portador as entrega
+o rei laertes vais ouvilas podes ir sai o mensageiro le "alto e poderoso senhor sabei que fui trazido nu para vosso reino amanha vos pedirei permissao para contemplar vossos reais
+
+olhos quando pretendo depois de obtido consentimento relatarvos os motivos de meu inesperado e muito estranho regresso hamlet" que e isso e os companheiros voltariam nao sera tudo apenas uma farsa
+laertes e a letra
+o rei os tracos sao de hamlet "nu" e adiante em posescrito diz "sozinho" podeis aconselharme
+laertes nao sei tambem que faca mas que venha sinto que se me inflama o peito a ideia de viver e poder dizerlhe aos dentes assim fizeste
+o rei se assim e laertes e por que nao por que de outra maneira quereis que vos oriente
+laertes entao senhor contanto que de paz nao seja o assunto
+o rei vossa paz simplesmente ja que a viagem ficou frustrada e que ele ja nao cuida de reiniciala penso em concitalo a um feito em que de ha muito estou pensando que a morte dele implica sem que vento de censura nenhum nos incomode a propria mae vera no efeito o acaso chamandolhe acidente
+
+laertes estou de acordo e mais ainda estarei se dispuserdes que seja eu o instrumento
+o rei vem a tempo des que viajastes fostes elogiado na presenca de hamlet por um dote em que se diz primais todas as outras qualidades reunidas nao tiveram o poder de espertarlhe tanto a inveja como essa que a meu ver e a mais modesta
+laertes que talento senhor gabaram tanto
+o rei um laco no chapeu da juventude conquanto necessario porque aos mocos cai bem a vestimenta leve e simples como peles e mantos a velhice que a protegem tornandoa circunspecta aqui esteve ha dois meses um normando lutei contra os franceses sei de viso que sao bons cavaleiros esse bravo contudo fez milagres de tal modo se unia a sela e tais e tantas coisas ao cavalo obrigava pareciam um so corpo e que meia natureza do formoso animal ele possuisse de tal modo excedeu meu pensamento que so de imaginar voltas e saltos fico aquem de seus efeitos
+laertes um normando o rei normando sim
+
+laertes lamord por minha vida o rei esse mesmo
+laertes conhecoo bem e a perola e a joia de seu povo
+o rei fezvos grandes encomios elogiandovos de tal maneira na arte e no manejo das armas sobretudo do florete que proclamavam digno de ser visto se alguem vos desafiasse os esgrimistas de sua patria jurava careciam de vista precaucao e agilidade quando em jogo convosco esses encomios envenenaram tanto a alma de hamlet que vivia a querer que regressasseis porque logo convosco se medisse ora assim sendo
+laertes sendo assim senhor
+o rei laertes vosso pai vos era caro ou sois tal como a imagem da tristeza rosto sem coracao
+laertes por que isso agora
+o rei nao penso que esse amor vos falecesse mas sei que o amor no tempo se origina sobre haverme a experiencia demonstrado que o tempo lhe modera o ardor e o brilho no centro dessa chama se acha sempre uma mecha ou pavio que a amortece nada conserva  sempre  o  mesmo  aspecto  que  ate
+
+mesmo a bondade em demasia morre do proprio excesso o que queremos deve ser feito que o querer varia mostrando tantas quedas e delongas quantas linguas existem maos e casos e o "devia" se muda num suspiro que alivia e faz mal mas vamos a ulcera hamlet volta como demonstrareis que de tal pai sois filho mais com atos do que simples palavras
+laertes cortarlheia o pescoco na igreja
+o rei de fato nao devia haver santuario que o homicida amparasse nem limites para a vinganca mas bondoso laertes se concordais ficai no vosso quarto hamlet vai saber que ja voltastes cuidarei que de vos lhe falem muito pondo duplo verniz nos elogios do frances em resumo aproximamonos e faremos apostas desatento como ele e sobre nobre e sem suspeita as armas nao vera dai ser facil na confusao ficardes com o florete nao protegido o que vos ensejara num bote calculado compensa lo por vos ter morto o pai
+laertes aceito o alvitre e ainda mais enveneno minha espada comprei de um charlatao certa mistura tao mortal que banhando nela a faca uma vez feito o sangue nao ha emplastro ainda que preparado so de simples virtuosos sob a lua que consiga dar vida
+
+a quem tocado for de leve vou por esse veneno na minha arma porque esflorar o contendor ja seja para ele a morte
+o rei vamos tratar disso pesemos ora o tempo e as circunstancias adequadas ao caso se essa traca falhar transparecendo nosso intento por falecernos jeito melhor fora nao ter tentado dai o ser preciso novo plano numa especie de reforco para o caso de a prova nao dar certo esperai quero ver apostaremos por maneira solene na arte de ambos eis aqui quando a luta vos der calor e sede esforcaivos para isso nos ataques e ele quiser beber hei de uma taca ter a mao bastara que nela molhe de leve os labios caso ele consiga livrarse do florete envenenado porque o plano de certo mas que e isso entra a rainha entao meiga rainha
+a rainha tanto as desgracas correm que se enleiam no encalco umas das outras vossa irma afogouse laertes
+laertes afogouse onde como
+a rainha um salgueiro reflete na ribeira cristalina sua copa acinzentada para ai foi ofelia sobracando grinaldas esquisitas de rainunculas margaridas urtigas e de flores de purpura alongadas a que os nossos camponios chamam nome bem grosseiro e as nossas jovens "dedos de defunto"  ao  tentar  pendurar  suas  coroas  nos
+
+galhos inclinados um dos ramos invejosos quebrou lancando na agua chorosa seus trofeus de erva e a ela propria seus vestidos se abriram sustentandoa por algum tempo qual a uma sereia enquanto ela cantava antigos trechos sem revelar consciencia da desgraca como criatura ali nascida e feita para aquele elemento muito tempo porem nao demorou sem que os vestidos se tornassem pesados de tanta agua e que de seus cantares arrancassem a infeliz para a morte lamacenta
+laertes afogouse dissestes a rainha afogouse
+laertes querida irma ja tens agua de sobra nao te darei mais lagrimas contudo somos assim que a natureza o obriga sem que importe a vergonha uma vez fora deixou de ser mulher adeus senhor com as palavras so chamas me sairiam se nao fosse apagalas a tolice sai
+o rei sigamolo gertrudes que trabalho me custou para a colera acalmarlhe receio que de novo a explodir venha sigamolo portanto saem
+
+ato v
+cena i
+
+um cemiterio entram dois coveiros com alvioes e pas
+
+
+primeiro coveiro podera serlhe dada sepultura crista se foi ela quem procurou a salvacao
+segundo coveiro digote que sim por isso trata de abrir logo a sepultura o magistrado ja fez investigacoes tendo concluido pelo sepultamento em chao sagrado
+primeiro coveiro como assim se ela nao se afogou em defesa propria
+segundo coveiro foi o que decidiram
+primeiro coveiro entao foi se ofendendo nao pode ter sido de outro modo que o ponto principal e o seguinte se eu me afogar voluntariamente pratico um ato um ato e composto de tres partes agir fazer e realizar logo afogouse porque quis
+
+segundo coveiro mas ouvi compadre coveiro
+primeiro coveiro com licenca aqui esta a agua bem aqui esta o homem bem se o homem vai para a agua e se afoga e ele quer o queira quer nao que vai ate la toma nota mas se a agua vem para ele e o afoga nao e ele que se afoga logo quem nao e culpado de sua propria morte nao encurta a vida
+segundo coveiro e isso e lei
+primeiro coveiro e de acordo com as conclusoes do magistrado
+segundo coveiro quereis que vos seja franco se nao se tratasse de uma senhorinha de importancia nao lhe dariam sepultura crista
+primeiro coveiro tu o disseste e pena que neste mundo os grandes tenham mais direito de se enforcarem e afogarem do que os seus irmaos em cristo dame a pa nao ha nobreza mais antiga do que a dos jardineiros dos abridores de fossas e dos coveiros todos exercem a profissao de adao
+segundo coveiro adao era nobre
+primeiro coveiro foi quem primeiro usou armas
+
+segundo coveiro como se nao as possuia
+primeirocoveiro queespagao
+como e que interpretas a escritura a escritura diz que adao cavou como poderia ele cavar se nao possuisse armas vou fazerte outra pergunta se nao responderes certo teras de confessar que es
+segundo coveiro pois que venha a pergunta
+primeiro coveiro quem e que constroi mais solidamente do que o pedreiro o carpinteiro e o construtor de navios
+segundo coveiro o que levanta cadafalsos porque suas construcoes sobrevivem a milhares de inquilinos
+primeiro coveiro realmente aprecio a tua vivacidade o cadafalso faz bem mas para quem faz ele bem para os que fazem mal por isso fizeste mal em dizer que o cadafalso e mais solido do que a igreja logo o cadafalso te faria bem vamos responde logo
+segundo coveiro quem e que constroi mais solidamente do que o pedreiro o carpinteiro e o construtor de navios
+
+primeirocoveiro justamente
+responde isso e sai da canga
+segundo coveiro desta vez vou acertar
+primeiro coveiro veremos
+segundo coveiro com a breca nao o consigo hamlet e horacio aparecem no fundo
+primeiro coveiro nao des tratos a bola que o teu asno preguicoso nao andara mais depressa com as chibatadas quando te fizerem de novo essa pergunta responde que e o coveiro porque a casa que ele constroi dura ate o dia do juizo corre a hospedaria e trazeme uma caneca de aguardente sai o segundo coveiro
+primeiro coveiro canta continuando a cavar
+quando rapaz amei amei bastante quao doce me sabia
+tudo aquilo que tempo um so instante
+mais que tudo valia
+hamlet esse sujeito nao tera o sentimento da profissao para cantar quando esta abrindo uma sepultura
+horacio o habito facilitoulhe a tarefa
+
+hamlet e isso as maos que trabalham pouco sao mais sensiveis
+primeiro coveiro canta
+mas a idade com passo de ladrao nas garras me apanhou
+tirandome do mundo folgazao e tudo se acabou
+joga um cranio
+hamlet tempo houve em que aquele cranio teve lingua e podia cantar agora esse velhaco o atira ao solo como se se tratasse da mandibula de caim o primeiro homicida e bem possivel que a cabeca que esse asno maltrata desse jeito seja de algum politico que enganava ao proprio deus nao te parece
+horacio e bem possivel milorde
+hamlet ou de algum cortesao que sabia dizer "bom dia meu doce senhor como vai passando meu bom senhor" talvez a de lorde fulano que elogiava o cavalo de lorde cicrano quando tinha a intencao de pedirlho nao e verdade
+horacio e isso mesmo
+hamlet e agora depois de pertencer a lorde  verme  que  lhe  comeu  as  carnes  este
+
+sujeito lhe bate com a enxada no maxilar se pudessemos acompanhalo em todas as fases surpreenderiamos nisso uma bela revolucao levarem tanto tempo esses ossos para se formarem so para virem a servir de bola so de pensar em tal coisa sinto doer os meus
+primeiro coveiro canta
+uma enxada e uma pa bem resistente mais um lencol bemfeito
+e uma cova de lama indiferente fazem do hospede o leito
+joga outro cranio
+hamlet mais um cranio por que nao ha de ser o de um jurista onde foram parar as sutilezas os equivocos os casos as enfiteuses todas as suas chicanas por que consente que este maroto rustico lhe bata com a enxada suja e nao lhe arma um processo por lesoes pessoais hum e bem possivel que esse sujeito tivesse sido um grande comprador de terras com suas escrituras hipotecas multas endossos e recuperacoes consistira a multa das multas e a recuperacao das recuperacoes em ficarmos com a bela cabeca assim cheia de tao bonito lodo nao lhe arranjaram seus fiadores com as fiancas duplas mais espaco do que o de seus contratos os titulos de suas propriedades nao caberiam em
+
+seu caixao nao obterao os herdeiros mais do que isso
+horacio nada mais milorde
+hamlet pergaminho nao e feito de pele de carneiro
+horacio perfeitamente principe e tambem de bezerro
+hamlet nao passam de carneiros e de bezerros os que procuram segurarse nisso vou dirigirme a esse maroto de quem e essa cova camarada
+primeiro coveiro e minha senhor e uma cova de lama indiferente fazem do hospede o leito
+hamlet estou vendo que e tua de fato porque te encontras dentro dela
+primeiro coveiro estais fora dela senhor logo nao vos pertence enquanto a mim muito embora nao esteja deitado nela posso dizer que e minha
+hamlet nao e certo dizeres que te pertence porque estas dentro dela sepultura e para os mortos nao para os que estao com vida logo estas mentindo
+
+primeiro coveiro uma mentira viva senhor que voltara de mim para vos
+hamlet para que homem estas cavando essa sepultura
+primeiro coveiro nao e para nenhum homem senhor
+hamlet para que mulher entao primeiro coveiro nao e para mulher
+tampouco
+hamlet quem e que vai ser enterrado nela
+primeiro coveiro alguem que foi mulher senhor e que deus a tenha em sua santa guarda ja faleceu
+hamlet como esse sujeito e meticuloso precisamos falarlhe com a bussola na mao qualquer equivoco podera sernos fatal por deus horacio tenho observado que nestes tres ultimos anos o mundo se torna cada vez mais sutil o pe do camponio toca tao de perto no calcanhar do nobre que causa esfoladuras ha quanto tempo es coveiro
+primeiro coveiro entre todos os dias do ano iniciei a profissao no dia em que o nosso defunto rei hamlet venceu a fortimbras
+
+hamlet e quanto tempo faz isso
+primeiro coveiro nao sabeis qualquer bobo poderia dizervos foi no dia em que nasceu o moco hamlet aquele que ficou louco e que mandaram para a inglaterra
+hamlet ah sim e por que o mandaram para a inglaterra
+primeiro coveiro ora porque enloqueceu la ele ha de recuperar o juizo mas se o nao fizer importa pouco
+hamlet por que razao
+primeiro coveiro e que ninguem se apercebera disso todos por la sao tao loucos quanto ele
+hamlet e como foi que ele enloqueceu
+primeiro coveiro por maneira muito estranha dizem
+hamlet como estranha
+primeiro coveiro ora perdendo o juizo
+hamlet e onde foi isso
+
+primeiro coveiro ora aqui na dinamarca entre rapaz e homem feito sou coveiro ha trinta anos
+hamlet quanto tempo pode uma pessoa ficar na terra sem apodrecer
+primeiro coveiro a la fe se ja nao comecara a apodrecer em vida que hoje em dia ha muitos bexiguentos que mal esperam pela inumacao podera durarvos coisa de oito anos ou nove um curtidor demora nove anos
+hamlet e por que ele mais tempo do que os outros
+primeiro coveiro ora senhor e que a profissao lhe endurece a pele tornandoa impermeavel a agua que e o mais ativo destruidor do bandido do cadaver temos aqui outro cranio que vos ficou na terra seus vinte e tres anos
+hamlet de quem era este
+primeirocoveiro domais
+extravagante louco que ja se viu quem pensais que ele fosse
+hamlet nao posso sabelo
+primeiro coveiro para o diabo com sua loucura certa vez atiroume a cabeca uma botija
+
+de vinho do reno esse cranio ai senhor esse cranio ai senhor era o cranio de yorick o bobo do rei
+hamlet este
+primeiro coveiro precisamente hamlet deixame velo toma o cranio
+pobre yorick conhecio horacio um sujeito de
+chistes inesgotaveis e de uma fantasia soberba carregoume muitas vezes as costas e agora como me atemoriza a imaginacao sinto engulhos era aqui que se encontravam os labios que eu beijei nao sei quantas vezes onde estao agora os chistes as cabriolas as cancoes os rasgos de alegria que faziam explodir a mesa em gargalhadas nao sobrou uma ao menos para rir de tua propria careta tudo descarnado vai agora aos aposentos da senhora e dizelhe que embora se retoque com uma camada de um dedo de espessura algum dia ficara deste jeito fazea rir com semelhante pilheria dizeme uma coisa horacio por obsequio
+horacio que e principe
+hamlet acreditas que alexandre depois de enterrado tivesse este mesmo aspecto
+horacio igual igual principe
+
+hamlet e este cheiro pua joga o cranio
+horacio o mesmo principe
+hamlet a que usos infimos temos de prestarnos horacio por que nao acompanhar a imaginacao as nobres cinzas de alexandre ate encontralas servindo para tapar um barril
+horacio e ir muito longe considerar as coisas por esse modo
+hamlet de forma alguma acompanhemolas com bastante modestia deixandonos guiar apenas pela verossimilhanca mais ou menos deste jeito alexandre morreu alexandre foi enterrado alexandre tornouse po o po e terra da terra fazse argila por que entao nao se podera tapar um barril de cerveja com a argila em que ele se converteu o grande cesar morto e em po tornado pode a fenda vedar ao vento irado o po que o mundo inteiro trouxe atento ora o muro protege contra o vento mas silencio cautela afastemonos ai vem o rei entram padres etc em procissao o corpo de ofelia laertes as carpideiras o rei a rainha sequito etc a corte toda a rainha a quem sepultam com ritos incompletos isso indica que a pessoa a que trazem suicidouse com mao desesperada e era de estado vamonos ocultar para observalos retirase com horacio
+
+laertes que cerimonia mais
+hamlet esse e laertes jovem da alta prosapia observao bem
+laertes que cerimonia mais
+primeiro padre quanto nos foi possivel prolongamoslhe as obsequias sua morte foi suspeita e a nao ser a pressao sobre nossa ordem seria sepultada em chao profano ate ao clarim final em vez de pias oracoes lhe teriamos jogado seixos ticoes e cardos ao inves disso consentimos nas flores sobre a tumba a coroa de virgem e no dobre de finados durante o saimento
+laertes nao se fara mais nada primeiropadre nadamais
+manchariamos agora esse servico se cantassemos
+requiem como em casos de morte em santa paz
+laertes pondea na terra que de sua carne pura e nao manchada nascam violetas padre bronco digote que minha irma vai ser um anjo enquanto tu ficaras a contorcerte em urros
+hamlet que ouco a bela ofelia
+a rainha para a fragrancia mais perfume adeus sempre esperei que viesses a casarte com meu hamlet imaginara o leito de
+
+nupciasenfeitartedocecriancajamaisa sepultura
+laertes maldicao triplice triplicada mais dez vezes caia sobre a cabeca amaldicoada do infame causador de teu desvairo parai com a terra ate que nestes bracos a aperte novamente salta na cova agora ponde sobre o vivo e o cadaver vossa poeira ate que o chao transformeis numa montanha que venca o velho pelio ou a azul cabeca do celestial olimpo
+hamlet quem se queixa com enfase tao grande e com palavras que detem as estrelas em seu curso como ouvintes pasmados sou hamlet sim o dinamarques salta na cova
+laertes o diabo te leve a alma atraca se com ele
+hamlet nao rezaste direito digote que me soltes a garganta pois embora eu nao seja nem furioso nem frenetico posso conter algo de que deves recearte tira as maos
+o rei separemnos
+a rainha hamlet hamlet todos calma
+horacio principe por favor alguns dos presentes os apartam saem da sepultura
+
+hamlet por tal motivo lutarei com ele enquanto eu conseguir mover as palpebras
+a rainha que motivo meu filho
+hamlet amava ofelia quarenta mil irmaos nao poderiam com todo o seu amor multiplicado perfazer o total do que eu lhe tinha que farias por ela
+o rei laertes esta louco
+a rainha evitaio por deus
+hamlet com os diabos dize logo o que farias chorar brigar jejuar fazerte em tiras beber vinagre e ate engolir inteiro um crocodilo tudo isso eu posso que vieste aqui fazer gemer apenas desafiarme na cova se desejas que te enterrem tambem posso imitarte se falas de montanhas que despejem sobre nos milhoes de acres ate que o solo va queimarse de encontro a zona ardente deixando o ossa tornarse uma verruga como ves eu tambem falo empolado
+a rainha e da loucura o acesso dura pouco mas logo tao quietinho como a pomba quando os gemeos lhe nascem de cor de ouro as asas o silencio lhe adormece
+hamlet respondeime senhor por que motivo me tratais desse modo ameivos sempre mas isso pouco importa deixai que hercules faca
+
+como entender o gato mia o cachorro tambem tera seu dia sai
+o rei meu caro horacio pecote acompanhao sai horacio a laertes fortifica a paciencia no que a noite conversamos que breve decidimos esse assunto a rainha boa gertrudes cuida de teu filho a parte esta cova ha de ter movimento vivo uma hora de sossego ainda vira com paciencia esperemos ate la saem todos
+
+cena ii
+
+uma sala no castelo entram hamlet e horacio
+
+hamlet sobre esse assunto e quanto basta agora cuidemos do outro lembraste de todas as particularidades
+horacio se me lembro
+hamlet uma luta travouseme no peito que o sono me tirou sofria como revoltosos em ferro de repente viva a temeridade e muito certo que a indiscricao por vezes nos ampara quando a trama periga isso nos mostra que um deus aperfeicoa nossos planos ainda que mal tracados
+horacio e bem certo
+hamlet sai do camarote envolto as pressas no meu roupao de viagem para achalos na escuridao consigo o intento lanco mao do pacote e me retiro para meu quarto novamente com audacia que o medo vence o brio os selos quebro da grande comissao achando horacio
+
+oh banditismo real uma ordem clara com varios argumentos relativos ao bem da dinamarca e da inglaterra e nao sei mais que duendes e fantasmas no caso de com vida me deixarem para que na mesma hora sem delongas nem sequer a de afiar a machadinha me degolassem
+horacio que e entao possivel
+hamlet aqui tens o mandato podes lelo com vagar mas nao queres que te conte como me decidi
+horacio com todo o gosto
+hamlet cercado assim por tantas vilanias mesmo antes de eu poder dizer o prologo representava o cerebro senteime e escrevi com capricho nova carta ja pensei como os nossos estadistas que e feio escrever bem tendo insistido ate em desaprendelo mas nessa hora muito bom me foi isso quererias saber qual o conteudo da mensagem
+horacio com todo o gosto principe hamlet     rogo   instante   do   rei
+considerando   que   a   inglaterra   era   fiel
+subordinada que o amor entre os dois povos deveria florescer como a palma que a concordia a grinalda  de  trigo  apresentava  como  tracode
+
+uniao entre as coroas e outros considerandos de igual porte para que conhecido o teor da carta fossem mortos depressa os portadores sem delongas e ate sem darlhes tempo de confessar as culpas
+horacio bem e o selo
+hamlet nisto o ceu me ajudou tinha na bolsa o sinete que fora de meu pai e que serviu de norma para o selo da dinamarca apos dobrada a carta subscritada e impresso nela o timbre pu la no lugar da outra sem vestigio deixar da troca deuse no outro dia o combate ja sabes tudo o mais
+horacio desta arte rosencrantz e guildenstern seguiram seu caminho
+hamlet ora homem foram eles que namoraram esse emprego remorso algum me vem por ter feito isso caem por terem sido intrometidos e perigoso para a gente baixa ficar entre os floretes inflamados de dois opositores poderosos
+horacio e dizerse que e rei
+hamlet nao achas que fiz bem ele privoume do meu pai prostituiume a mae meteuse entre a escolha do povo e meus anelos jogou o laco visando ate a matarme e com tanta
+
+perfidia em sa consciencia nao cabe a este meu braco darlhe o troco nao e crime deixar um verme desses corroerme por mais tempo a propria carne
+horacio dentro de pouco tempo hao de chegarlhe noticias da inglaterra sobre o caso
+hamlet ate la o tempo e meu a vida humana nao dura mais do que a contagem de um mas meu bondoso horacio fico triste por me haver esquecido de mim mesmo frente a laertes vejo em minha causa representada a sua estimo o muito mas realmente as bravatas nos lamentos deixaramme furioso
+horacio basta vede quem vem chegando entra osrico
+osrico vossa alteza e muito bemvindo a dinamarca
+hamlet humildemente vos agradeco meu senhor a parte a horacio conheces esse mosquito
+horacio a parte a hamlet nao caro principe
+hamlet tanto melhor para a tua salvacao porque e vicio conhecelo possui muitas terras e todas ferteis se fosse animal o rei dos animais a manjedoura deste ficaria sempre
+
+ao lado da mesa do rei e um bisborria mas como disse dono de grandes extensoes de lama
+osrico meu doce senhor se vossa alteza dispuser de tempo farei uma comunicacao da parte de sua majestade
+hamlet recebelaei com a maxima atencao usai vosso chapeu de acordo com a sua finalidade foi feito para a cabeca
+osrico agradeco a vossa senhoria mas faz muito calor
+hamlet ao contrario podeis crerme faz muito frio e vento norte
+osrico realmente principe esta fazendo bastante frio
+hamlet conquanto me pareca que o tempo esta abafado e quente para a minha compleicao
+osrico sim nao ha duvida algo abafado de certo modo nao sei como me exprima mas senhor sua majestade me incumbiu de comunicarvos que apostou uma grande quantia sobre vossa pessoa o caso e o seguinte
+hamlet concitando a cobrirse pecovos nao vos esquecais
+
+osrico deixai meu caso senhor estou a vontade mas senhor laertes chegou a corte ha pouco tempo um cavalheiro podeis crerme na acepcao lata do termo com excelentes qualidades boa presenca e conversacao agradavel de fato para falar dele com toda a propriedade e a carta ou almanaque da cortesania por encontrarse nele a sumula de todos os dotes que pode um gentilhomem ambicionar
+hamlet o seu elogio nada perdeu em vossa boca conquanto eu saiba que se fossemos fazer um inventario de suas qualidades padeceria a aritmetica da memoria sem que na rota em que ele vai se observasse a menor guinada para exaltalo com toda a sinceridade consideroo um espirito muito aberto com dotes tao preciosos e raros que para tudo dizer em uma so palavra igual a ele so podera encontrar em seu proprio espelho qualquer outra tentativa para retratalo redundaria em sua simples sombra
+osrico vossa alteza fala com conviccao hamlet   a  que  respeito  senhor  mas
+afinalporquemotivoestamosaenvolveresse
+cavalheiro em nosso grosseiro folego
+osrico senhor
+
+horacio nao seria possivel fazeremse ambos compreender em outra lingua decerto o podem
+hamlet a que vem agora o nome desse cavalheiro
+osrico de laertes
+horacio esvaziouselhe a bolsa estao gastas todas as palavras de ouro
+hamlet dele mesmo senhor osrico sei que nao ignorais
+hamlet folgo com isso conquanto nao me recomende muito o fato de o saberdes prossegui senhor
+osrico  nao ignorais a que ponto laertes prima
+hamlet nao me atrevo a dizer que sim com medo de compararme ao seu merecimento conhecermos bem uma pessoa e conhecermos a nos mesmos
+osrico refirome a sua habilidade de manejar arma o conceito de que desfruta nesse terreno nao lhe permite competidor
+hamlet e qual e a sua arma
+
+osrico florete e adaga
+hamlet seriam entao duas mas prossegui
+osrico o rei senhor empenhou seis cavalos berberes contra os quais se diz laertes joga seis espadas francesas com todas as suas pertencas cinturoes talabartes e o resto tres desses trens sao realmente soberbos bem adaptados aos punhos trabalhados com esmero e de invencao admiravel
+hamlet a que dais o nome de trem
+horacio ja sabia que haverieis de recorrer a nota marginal antes de chegar ele ao fim
+osrico trens meu senhor sao os sustentaculos
+hamlet a expressao assentaria se usassemos canhoes a cinta ate la fiquemos com sustentaculos mas prossegui seis cavalos berberes contra seis espadas com todos os seus acessorios e mais tres desses trens de elevada invencao uma aposta da franca contra a dinamarca mas por que motivo para usar de vossa expressao empenharam tudo isso
+osrico o rei senhor apostou que em doze botes entre laertes e vossa alteza aquele
+
+nao levara mais do que tres de vantagem laertes aposta que vos tocara nove vezes em doze o que podera ser posto imediatamente a prova se vossa alteza se dignar de responderlhes
+hamlet e se eu me decidir pela negativa
+osrico quero dizer principe no caso de quererdes expor vossa pessoa
+hamlet senhor vou porme a passear nesta sala se for do agrado de sua majestade estarei na hora de tomar um pouco de ar fresco tragam os floretes uma vez que o cavalheiro consinta se o rei persiste em seu intento ganharei para ele o que puder em caso contrario lucrarei apenas a vergonha e os golpes sobressalentes
+osrico posso transmitir vossa resposta nesses termos
+hamlet o sentido e esse senhor ficando vos facultado florear de acordo com vossa capacidade
+osrico minha gratidao se recomenda a vossa alteza
+hamlet a minha a minha sai osrico fez ele muito bem em recomendarse que nao ha linguas que pudessem fazelo
+
+horacio esse abibe fugiu do ninho com a casca do ovo na cabeca
+hamlet para mamar ele fazia mesuras aos peitos da ama como os muitos do mesmo rebanho que constituem o encanto de nossa epoca superficial adquiriu apenas o tom da moda e o verniz da sociedade que como espuma fina o fazem passar atraves das opinioes mais joeiradas e batidas mas bastara soprar para que as bolhas se desfacam entra um nobre
+o nobre alteza sua majestade se recomendou a vos pelo moco osrico que de vossa parte lhe disse o aguardarieis na sala agora mandame saber se e de vosso agrado medirvos logo com laertes ou se preferes adiar a partida
+hamlet sou constante em meus intentos meus intentos seguem o prazer do rei se falar a sua conveniencia a minha nada tera a objetar agora ou em qualquer tempo uma vez que me encontre tao forte como agora
+o nobre o rei a rainha e toda a corte se encaminham para ca
+hamlet em boa hora
+o nobre e desejo da rainha que vossa alteza dirija palavras de cortesia a laertes antes de iniciardes a partida
+
+hamlet e razoavel o que aconselha sai o nobre
+horacio ides perder essa partida principe
+hamlet nao creio desde que ele foi para a franca nao deixei de praticar a esgrima vou ganhar dentro da margem que me concede mas nao fazes ideia de como sinto apertarseme o coracao nao importa
+horacio se assim e principe
+hamlet tolice um pressentimento apenas mas que bastaria para preocupar uma mulher
+horacio se vosso espirito revela qualquer repugnancia convem obedecerlhe irei ao encontro deles para dizerlhes que vos achais indisposto
+hamlet de forma alguma desafio os pressagios ha uma especial providencia na queda de um pardal se tem de ser ja nao sera depois se nao for depois e que vai ser agora se nao for agora e que podera ser mais tarde o principal e estarmos preparados uma vez que ninguem sabe o que deixa que importa que seja logo que seja entram o rei a rainha laertes nobres osrico e ajudantes com floretes etc
+
+o rei recebe hamlet a mao que te apresento o rei coloca a mao de laertes sobre a de hamlet
+hamlet perdoai senhor causeivos grande ofensa sabemno os circunstantes e decerto ja ouvistes comentar que estou sofrendo de atroz melancolia tudo o que fiz que a vossa natureza porventura ofendesse e a honra e o carater proclamoo foi loucura foi hamlet que a laertes magoou jamais se hamlet de si mesmo se abstrai e sem ser ele causa a laertes uma ofensa hamlet nao foi o causador pode afirma lo quem foi entao sua loucura logo hamlet esta do lado do ofendido seu maior inimigo e a propria doenca deixai senhor que em face dos presentes o franco renegar de maus intentos me absolva ante vossa alma generosa e como se uma flecha eu disparasse por sobre a casa e o irmao sem ver ferisse
+laertes declaro satisfeita a natureza que razoes encontrava de a vinganca concitarme no campo estrito da honra contudo impugnarei qualquer proposta de reconciliacao ate que mestres idosos de lealdade comprovada firmados na experiencia me declarem limpo o meu nome antes porem que chegue essa hora aceitarei vossa amizade qual e sem a magoar
+
+hamlet isso me alegra encetarei lealmente esta compita fraternal os floretes
+laertes vamos quero um tambem
+hamlet vou servir de fundo para vosso brilho laertes minha inepcia fara luzir vossa arte como a noite a uma estrela fulgente
+laertes estais zombando hamlet por estas maos o juro
+o rei jovem osrico entregalhes as armas conheces primo hamlet as condicoes
+hamlet conhecoas vossa graca da vantagens para o mais fraco
+o rei nao receio nada ja os vi lutar mais se ele fez progressos que seja para nos a diferenca
+laertes este e muito pesado mostraime outro
+hamlet este e bom todos sao de igual tamanho
+osrico todos meu bom senhor colocamse
+o rei ponde as jarras de vinho sobre a mesa se hamlet da primeira ou da segunda vez o
+
+tocar ou se aparar o golpe na terceira investida que abram fogo todas as baterias o rei bebe a saude de hamlet pondo dentro de sua taca uma perola mais rica do que as que em seus diademas ostentaram os quatro ultimos reis da dinamarca tragam tacas transmitam os timbales a noticia as trombetas estas logo aos canhoneiros fora o sinal levem os canhoes para o ceu o ceu a terra a saude de hamlet que o rei bebe vamos logo e vos juizes olho atento
+hamlet vamos
+laertes em guarda principe hamlet uma
+laertes nao
+hamlet o juiz que o decida osrico tocado nao ha duvida laertes de novo
+o rei descansem tragam vinho hamlet a perola e em teu louvor saude deemlhe a taca soam trombetas disparos de canhoes no fundo
+hamlet depoisprimeironovoassalto
+vamos lutam novamente tocado que dizeis
+laertes fui tocado confessoo
+
+o rei nosso filho vai ganhar
+a rainha esta suando e perde o folego toma o meu lenco hamlet limpa a fronte a rainha ora bebe ao teu bom exito
+hamlet nobre senhora
+o rei nao nao bebas gertrudes
+a rainha consenti caro esposo e meu desejo
+o rei a parte a taca envenenada e muito tarde
+hamlet nao quero ainda senhora mais um pouco
+a rainha vem ate aqui para enxugarte o rosto
+laertes pretendo desta vez senhor toca
+lo
+o rei nao creio
+laertesaparte contudoequase
+contra minha propria consciencia
+hamlet vinde laertes para o terceiro assalto estais brincando pecovos que empregueis toda a pericia temo que me trateis como a uma crianca
+
+laertes e assim pois bem lutam osrico de parte a parte nada
+laertes tomai cuidado agora laertes fere a hamlet depois no afogo da luta trocam as armas e hamlet fere a laertes
+o rei separemnos excedemse
+hamlet nao nao em guarda a rainha
+cai
+osrico oh a rainha vedea
+horacio ambos se acham feridos como
+estais principe
+osrico como estais vos laertes laertes como um galo silvestre osrico
+preso no seu laco fui vitima de minha felonia
+hamlet que e que houve com a rainha
+o rei desmaiou por ter visto sangue em ambos
+a rainha nao e isso a bebida oh caro hamlet a bebida a bebida envenenada morre
+
+hamlet oh vilania fechem bem as portas traicao ah procuremos os culpados laertes cai
+laertes aqui hamlet aqui estas perdido nada no mundo existe que te salve nao tens nem meia hora mais de vida o instrumento fatal se acha em tuas maos sem guarda e envenenado minha astucia se virou contra mim jazo por terra para sempre tua mae envenenada nao posso mais o rei e ele o culpado
+hamlet a ponta envenenada entao veneno prossegue em teu trabalho fere o rei
+todos traicao traicao
+o rei amigos defendeime estou apenas ferido
+hamlet incestuoso assassino dinamarques maldito bebe bebe tua parte tambem contem tua perola vai vai com minha mae o rei morre
+laertes e justo e justo o veneno ele mesmo o preparara perdoemonos agora nobre hamlet que minha morte e a de meu pai nao caiam sobre ti nem a tua sobre mimmorre
+hamlet o ceu te absolva sigote estou morto horacio infeliz mae adeus adeus vos
+
+que empalideceis a esta catastrofe que nao passais de mudos assistentes desta cena se o tempo me sobrasse que a morte o beleguim que nao conhece contemplacoes e sempre rigorosa se pudesse contarvos que importa horacio eu morro mas tu vives perante os descontentes justificame e a minha causa
+horacio nao nao penseis nisso sou mais romano antigo do que mesmo dinamarques na taca ainda ha veneno
+hamlet como o homem que es entrega me essa taca entregama por deus largaa desejoa o deus que nome eu deixo horacio caso continuem confusas essas coisas se algum dia em teu peito me abrigaste private por um tempo da ventura e respira cansado mais um pouco neste mundo tao duro para a todos contares minha historia marcha ao longe tiros de canhao por tras da cena que barulho marcial se esta ouvindo
+osrico e o jovem fortimbras que da polonia retorna vitorioso e os emissarios da inglaterra sauda desse modo
+hamlet morro horacio o veneno me domina ja quase todo o espirito nao posso viver para saber o que nos chega da inglaterra contudo profetizo que ha de ser escolhido fortimbras meu voto moribundo e tambem dele
+
+dizelhe isso e lhe conta mais ou menos quanto ora aconteceu o resto e silencio morre
+horacio um nobre coracao que assim se parte boa noite meu bom principe que os anjos com seu canto ao repouso te acompanhem e esse tambor agora entram fortimbras os embaixadores da inglaterra e outros
+fortimbras onde e esta cena
+horacio que especie procurais se de infortunio ou de assombro parai com vossas buscas
+fortimbras destroco e o que se ve o feroz morte que festim se processa em tua cela para que de um so golpe tantos principes banhes em sangue
+primeiroembaixador avistae
+pavorosa chegamos atrasados surdos se acham os ouvidos que audiencia deveriam concedernos a fim de lhes contarmos da execucao de seu mandado mortos se encontram rosencrantz e guildenstern quem ha de agradecernos
+horacio nao o rei certamente ainda que vida lhe sobrasse para isso pois nao dera ordem no que respeita a morte de ambos mas uma vez chegados a esta cena sangrenta um da inglaterra outro da guerra da polonia ordenai
+
+que os corpos sejam expostos num tablado bem a vista que eu contarei ao mundo que ainda o ignora como tudo se deu ouvireis todos falar de atos carnais de incestos sangue julgamentos casuais mortes fortuitas de crimes por acaso ou pela astucia e de planos gorados que cairam sobre os proprios autores com verdade tudo isso contarei
+fortimbras que seja logo convoquemos os nobres ao conselho enquanto a mim com dor abraco a sorte tenho sobre este reino alguns direitos que o interesse me faz ora lembrados
+horacio tenho algo que dizer tambem sobre isso em nome de uma boca cujo voto muitos ha de arrastar ponhamos pressa na execucao de tudo enquanto inquietos os espiritos se acham para novas desgracas evitar oriundas de erros ou de tramas conscientes
+fortimbras que quatro capitaes a hamlet levem como a um soldado e o ponham sobre o leito se o trono ele alcancasse tudo o indica seria um grande rei que a sua passagem musica militar e salvas belicas falem alto por ele removei logo os corpos esta vista e propria so dos campos de batalha neste lugar porem e em tudo falha uma salva geral marcha funebre saem carregando os corpos depois do que se ouve uma salva de artilharia
